@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Articles on Raúl E. Taveras&#39;s Website</title>
-    <link>//www.raultaveras.online/articles/</link>
-    <description>Recent content in Articles on Raúl E. Taveras&#39;s Website</description>
+    <title>articles on Raúl E. Taveras&#39;s Website</title>
+    <link>//www.raultaveras.online/tags/articles/</link>
+    <description>Recent content in articles on Raúl E. Taveras&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <managingEditor>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</managingEditor>
     <webMaster>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</webMaster>
     <copyright>© Raúl Ernesto Taveras Franco</copyright>
-    <lastBuildDate>Fri, 20 Oct 2023 17:49:46 +0100</lastBuildDate><atom:link href="//www.raultaveras.online/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 17:49:46 +0100</lastBuildDate><atom:link href="//www.raultaveras.online/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test1</title>
       <link>//www.raultaveras.online/articles/test1/</link>
@@ -19,15 +19,6 @@
       <description>Short intro
 Main heading 1 Point 1 yes
 Sources Smith, Joe. (n.d.). Article name. url.</description>
-    </item>
-    
-    <item>
-      <title>Article 1</title>
-      <link>//www.raultaveras.online/articles/article1/</link>
-      <pubDate>Fri, 20 Oct 2023 00:46:04 +0100</pubDate>
-      <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
-      <guid>//www.raultaveras.online/articles/article1/</guid>
-      <description>This is a test article.</description>
     </item>
     
   </channel>

@@ -8,6 +8,25 @@
     <language>en-uk</language>
     <managingEditor>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</managingEditor>
     <webMaster>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</webMaster>
-    <copyright>© Raúl Ernesto Taveras Franco</copyright><atom:link href="//www.raultaveras.online/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Raúl Ernesto Taveras Franco</copyright>
+    <lastBuildDate>Fri, 20 Oct 2023 17:49:46 +0100</lastBuildDate><atom:link href="//www.raultaveras.online/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>articles</title>
+      <link>//www.raultaveras.online/tags/articles/</link>
+      <pubDate>Fri, 20 Oct 2023 17:49:46 +0100</pubDate>
+      <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
+      <guid>//www.raultaveras.online/tags/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>updates</title>
+      <link>//www.raultaveras.online/tags/updates/</link>
+      <pubDate>Fri, 20 Oct 2023 17:49:00 +0100</pubDate>
+      <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
+      <guid>//www.raultaveras.online/tags/updates/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

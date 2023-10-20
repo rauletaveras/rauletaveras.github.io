@@ -9,7 +9,27 @@
     <managingEditor>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</managingEditor>
     <webMaster>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</webMaster>
     <copyright>© Raúl Ernesto Taveras Franco</copyright>
-    <lastBuildDate>Fri, 20 Oct 2023 00:46:04 +0100</lastBuildDate><atom:link href="//www.raultaveras.online/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 17:49:46 +0100</lastBuildDate><atom:link href="//www.raultaveras.online/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test1</title>
+      <link>//www.raultaveras.online/articles/test1/</link>
+      <pubDate>Fri, 20 Oct 2023 17:49:46 +0100</pubDate>
+      <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
+      <guid>//www.raultaveras.online/articles/test1/</guid>
+      <description>Short intro
+Main heading 1 Point 1 yes
+Sources Smith, Joe. (n.d.). Article name. url.</description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>//www.raultaveras.online/updates/test1/</link>
+      <pubDate>Fri, 20 Oct 2023 17:49:00 +0100</pubDate>
+      <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
+      <guid>//www.raultaveras.online/updates/test1/</guid>
+      <description>Testing updates</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>//www.raultaveras.online/about/</link>
