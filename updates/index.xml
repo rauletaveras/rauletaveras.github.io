@@ -17,6 +17,9 @@
       <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
       <guid>//www.raultaveras.online/updates/test1/</guid>
       <description>Testing updates</description>
+      <content:encoded><![CDATA[<p>
+Testing updates</p>
+]]></content:encoded>
     </item>
     
   </channel>

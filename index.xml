@@ -19,6 +19,27 @@
       <description>Short intro
 Main heading 1 Point 1 yes
 Sources Smith, Joe. (n.d.). Article name. url.</description>
+      <content:encoded><![CDATA[
+<p>
+Short intro</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Main heading 1
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+Point 1 yes</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Sources
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>Smith, Joe. (n.d.). Article name. url.</p>
+</div>
+</div>
+]]></content:encoded>
     </item>
     
     <item>
@@ -28,36 +49,9 @@ Sources Smith, Joe. (n.d.). Article name. url.</description>
       <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
       <guid>//www.raultaveras.online/updates/test1/</guid>
       <description>Testing updates</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>//www.raultaveras.online/about/</link>
-      <pubDate>Fri, 20 Oct 2023 00:46:04 +0100</pubDate>
-      <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
-      <guid>//www.raultaveras.online/about/</guid>
-      <description>I am Raúl: Christian, linguistics lover, diplomacy professional, born in the Dominican Republic but citizen of the world.
-Thank you for stopping by!</description>
-    </item>
-    
-    <item>
-      <title>Recommendations hub</title>
-      <link>//www.raultaveras.online/recommendations/</link>
-      <pubDate>Fri, 20 Oct 2023 00:46:04 +0100</pubDate>
-      <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
-      <guid>//www.raultaveras.online/recommendations/</guid>
-      <description>This is where you will find links to my recommended media and content.
-Podcasts I listen to [WIP]</description>
-    </item>
-    
-    <item>
-      <title>Podcasts I Listen To</title>
-      <link>//www.raultaveras.online/podcasts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
-      <guid>//www.raultaveras.online/podcasts/</guid>
-      <description>For reference, I currently use the Android app Podcast Addict to listen to podcasts.
-Linguistics and Language A Way with Words Conlangery – For Constructing Languages Lexicon Valley New Books in Language That&amp;#39;s What They Say The Allusionist The Endless Knot Words for Granted Wordy Wordpecker The History of English Lingthusiasm en clair: forensic linguistics, literary detection, language mysteries, and more History The History of Rome Podcast - The OG History Podcast.</description>
+      <content:encoded><![CDATA[<p>
+Testing updates</p>
+]]></content:encoded>
     </item>
     
   </channel>

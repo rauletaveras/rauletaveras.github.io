@@ -19,6 +19,27 @@
       <description>Short intro
 Main heading 1 Point 1 yes
 Sources Smith, Joe. (n.d.). Article name. url.</description>
+      <content:encoded><![CDATA[
+<p>
+Short intro</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Main heading 1
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+Point 1 yes</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Sources
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>Smith, Joe. (n.d.). Article name. url.</p>
+</div>
+</div>
+]]></content:encoded>
     </item>
     
   </channel>
