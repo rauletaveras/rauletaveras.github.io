@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.raultaveras.online/about/</loc>
+    <loc>http://www.raultaveras.online/about/</loc>
     <lastmod>2023-10-20T00:46:04+01:00</lastmod>
   </url><url>
-    <loc>https://www.raultaveras.online/categories/</loc>
+    <loc>http://www.raultaveras.online/categories/</loc>
   </url><url>
-    <loc>https://www.raultaveras.online/</loc>
+    <loc>http://www.raultaveras.online/</loc>
   </url><url>
-    <loc>https://www.raultaveras.online/tags/</loc>
+    <loc>http://www.raultaveras.online/tags/</loc>
   </url>
 </urlset>
