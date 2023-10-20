@@ -1,26 +1,13 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-	<title>Personal website of Raúl Ernesto Taveras Franco</title>
-	<link>http://www.raultaveras.online/tags/</link>
-	<description>Recent content in Tags on Personal website of Raúl Ernesto Taveras Franco</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<language>en-uk</language>
-	<managingEditor>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</managingEditor>
-	<webMaster>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</webMaster>
-	<copyright>© Raúl Ernesto Taveras Franco</copyright>
-    
-        <atom:link href="http://www.raultaveras.online/tags/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	<item>
-		<title>About</title>
-		<link>http://www.raultaveras.online/about/</link>
-		<pubDate>Fri, 20 Oct 2023 00:46:04 +0100</pubDate>
-		<author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
-		<guid>http://www.raultaveras.online/about/</guid>
-		<description>&lt;p&gt;This website is about me, Raúl!&lt;/p&gt;
-</description>
-	</item>
-	
-	</channel>
+    <title>Tags on Raúl E. Taveras&#39;s Website</title>
+    <link>http://www.raultaveras.online/tags/</link>
+    <description>Recent content in Tags on Raúl E. Taveras&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <managingEditor>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</managingEditor>
+    <webMaster>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</webMaster>
+    <copyright>© Raúl Ernesto Taveras Franco</copyright><atom:link href="http://www.raultaveras.online/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>

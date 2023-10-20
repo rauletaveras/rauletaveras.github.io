@@ -5,9 +5,21 @@
     <loc>http://www.raultaveras.online/about/</loc>
     <lastmod>2023-10-20T00:46:04+01:00</lastmod>
   </url><url>
-    <loc>http://www.raultaveras.online/categories/</loc>
+    <loc>http://www.raultaveras.online/articles/article1/</loc>
+    <lastmod>2023-10-20T00:46:04+01:00</lastmod>
+  </url><url>
+    <loc>http://www.raultaveras.online/articles/</loc>
+    <lastmod>2023-10-20T00:46:04+01:00</lastmod>
   </url><url>
     <loc>http://www.raultaveras.online/</loc>
+    <lastmod>2023-10-20T00:46:04+01:00</lastmod>
+  </url><url>
+    <loc>http://www.raultaveras.online/recommendations/</loc>
+    <lastmod>2023-10-20T00:46:04+01:00</lastmod>
+  </url><url>
+    <loc>http://www.raultaveras.online/categories/</loc>
+  </url><url>
+    <loc>http://www.raultaveras.online/podcasts/</loc>
   </url><url>
     <loc>http://www.raultaveras.online/tags/</loc>
   </url>
