@@ -4,7 +4,10 @@
 	<link>http://www.raultaveras.online/categories/</link>
 	<description>Recent content in Categories on Personal website of Raúl Ernesto Taveras Franco</description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
+	<language>en-uk</language>
+	<managingEditor>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</managingEditor>
+	<webMaster>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</webMaster>
+	<copyright>© Raúl Ernesto Taveras Franco</copyright>
     
         <atom:link href="http://www.raultaveras.online/categories/index.xml" rel="self" type="application/rss+xml" />
 	
@@ -13,10 +16,9 @@
 		<title>About</title>
 		<link>http://www.raultaveras.online/about/</link>
 		<pubDate>Fri, 20 Oct 2023 00:46:04 +0100</pubDate>
-		
+		<author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
 		<guid>http://www.raultaveras.online/about/</guid>
-		<description>&lt;p&gt;
-This website is about me, Raúl!&lt;/p&gt;
+		<description>&lt;p&gt;This website is about me, Raúl!&lt;/p&gt;
 </description>
 	</item>
 	
