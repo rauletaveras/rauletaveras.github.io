@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on Raúl E. Taveras&#39;s Website</title>
-    <link>http://www.raultaveras.online/tags/</link>
-    <description>Recent content in Tags on Raúl E. Taveras&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <managingEditor>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</managingEditor>
-    <webMaster>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</webMaster>
-    <copyright>© Raúl Ernesto Taveras Franco</copyright><atom:link href="http://www.raultaveras.online/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on Raúl E. Taveras's Website</title><link>http://www.raultaveras.online/tags/</link><description>Recent content in Tags on Raúl E. Taveras's Website</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><managingEditor>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</managingEditor><webMaster>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</webMaster><copyright>© Raúl Ernesto Taveras Franco</copyright><atom:link href="http://www.raultaveras.online/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
