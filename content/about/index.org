@@ -1,0 +1,9 @@
+---
+title: "About me"
+date: 2023-10-20T00:46:04+01:00
+draft: false
+disableShare: true
+---
+I am Raúl: Christian, linguistics lover, diplomacy professional, born in the Dominican Republic but citizen of the world.
+
+Thank you for stopping by!
