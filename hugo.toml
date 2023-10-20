@@ -1,5 +1,0 @@
-baseURL = 'https://www.raultaveras.online/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-
-theme='lugo'
