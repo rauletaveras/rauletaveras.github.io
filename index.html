@@ -1,203 +1,144 @@
-<!DOCTYPE html>
-<html lang="en" dir="auto">
+<!doctype html>
+<html class="not-ready lg:text-base overflow-y-scroll scroll-pt-14" lang="en">
 
-<head>
-	<meta name="generator" content="Hugo 0.119.0"><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
-<title>Raúl E. Taveras&#39;s Website</title>
-
-<meta name="description" content="">
-<meta name="author" content="">
-<link rel="canonical" href="//www.raultaveras.online/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.min.css" rel="preload stylesheet" as="style">
-<link rel="icon" href="//www.raultaveras.online/favicon.ico">
-<link rel="apple-touch-icon" href="//www.raultaveras.online/apple-touch-icon.png">
-<link rel="alternate" type="application/rss+xml" href="//www.raultaveras.online/index.xml">
-<link rel="alternate" hreflang="en" href="//www.raultaveras.online/">
-<link rel="alternate" hreflang="es" href="//www.raultaveras.online/es/">
-
-<meta name="twitter:title" content="Raúl E. Taveras&#39;s Website" />
-<meta name="twitter:description" content="" />
-<meta property="og:title" content="Raúl E. Taveras&#39;s Website" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="//www.raultaveras.online/" />
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Raúl E. Taveras's Website",
-  "url": "//www.raultaveras.online",
-  "description": "",
-  "thumbnailUrl": "//www.raultaveras.online/favicon.ico",
-  "sameAs": [
-      
-  ]
-}
-</script>
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
-
-    </style>
-</noscript>
-
+<head prefix="og: https://ogp.me/ns# profile: https://ogp.me/ns/profile#">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="generator" content="Zola" />
+  <title>Raúl E. Taveras&#x27;s Website</title>
+  <meta property="og:site_name" content="Raúl E. Taveras&apos;s Website" />
+  <meta property="og:title" content="Raúl E. Taveras&apos;s Website" />
+  <meta property="og:url" content="http://raultaveras.online/" />
+  <link rel="canonical" href="http://raultaveras.online/" />
+  <meta property="og:type" content="profile" />
+  <link rel="alternate" type="application/atom+xml" href="http://raultaveras.online/atom.xml" title="Raúl E. Taveras&apos;s Website | Atom" />
+  <!-- Begin Head inject -->
+  
+  <!-- End Head inject -->
+  <link rel="stylesheet" href="http://raultaveras.online/main.min.css?h=fc65ba308cf36d3ba82c" />
+  <style>
+  :root{--bg: #f4f4f5; --header: #e4e4e7; color-scheme: light;}
+  :root.dark{--bg: #18181b; --header: #27272a; color-scheme: dark;}
+  </style>
+  <meta name="theme-color" data-light="#e4e4e7" data-dark="#27272a" content="#e4e4e7" />
+  <link rel="preload" as="image" href="http://raultaveras.online/raulforward1.jpg?h=f2f031465c8b868eb2d6" />
+  <link rel="icon" type="image/x-icon" sizes="16x16" href="http://raultaveras.online/favicon.ico" />
+  <link rel="apple-touch-icon" type="image/png" href="http://raultaveras.online/apple-touch-icon.png?h=58bee300054c5308feb3" />
+  <link rel="icon" type="image/png" href="http://raultaveras.online/android-icon.png?h=8d80ec95446bd2c36826" />
+  <script src="http://raultaveras.online/js/linkita.min.js?h=1dd3ed42fc674277bc34"></script>
+  <!-- Begin Head End inject -->
+  
+  <!-- End Head End inject -->
 </head>
 
-<body class="list-page type-page kind-home layout-" id="top"><script data-no-instant>
-function switchTheme(theme) {
-  switch (theme) {
-    case 'light':
-      document.body.classList.remove('dark');
-      break;
-    case 'dark':
-      document.body.classList.add('dark');
-      break;
-    
-    default:
-      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-      }
-  }
-}
-
-function isDarkTheme() {
-  return document.body.className.includes("dark");
-}
-
-function getPrefTheme() {
-  return localStorage.getItem("pref-theme");
-}
-
-function setPrefTheme(theme) {
-  switchTheme(theme)
-  localStorage.setItem("pref-theme", theme);
-}
-
-const toggleThemeCallbacks = {}
-toggleThemeCallbacks['main'] = (isDark) => {
-  
-  if (isDark) {
-    setPrefTheme('light');
-  } else {
-    setPrefTheme('dark');
-  }
-}
-
-
-
-
-window.addEventListener('toggle-theme', function() {
-  
-  const isDark = isDarkTheme()
-  for (const key in toggleThemeCallbacks) {
-    toggleThemeCallbacks[key](isDark)
-  }
-});
-
-
-function toggleThemeListener() {
-  
-  window.dispatchEvent(new CustomEvent('toggle-theme'));
-}
-
-</script>
-<script>
-  
-  (function() {
-    const defaultTheme = 'light';
-    const prefTheme = getPrefTheme();
-    const theme = prefTheme ? prefTheme : defaultTheme;
-
-    switchTheme(theme);
-  })();
-</script>
-
-<header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="//www.raultaveras.online" accesskey="h" title="Raúl E. Taveras&#39;s Website (Alt + H)">Raúl E. Taveras&#39;s Website</a>
-            <span class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </span>
-        </div>
-        <ul id="menu">
-            <li>
-                <a href="//www.raultaveras.online/tags/" title="tags"
-                >tags
-                </a>
-            </li>
-        </ul>
-    </nav>
-</header>
-<main class="main"><div class="profile">
-    <div class="profile_inner">
-        <img src="//www.raultaveras.online/raulforward1.jpeg" alt="profile image"
-            height="120" width="120" />
-        <h1>Raúl E. Taveras&rsquo;s Website</h1>
-        <span>I am Raúl: Christian, linguistics lover, diplomacy professional, born in the Dominican Republic but citizen of the world. Welcome to my website!</span><div class="social-icons">
-</div>
-
-        <div class="buttons">
-            <a class="button" href="/tags/updates/" rel="noopener" title="Updates">
-                <span class="button-inner">Updates</span>
-            </a>
-            <a class="button" href="/articles/" rel="noopener" title="Articles">
-                <span class="button-inner">Articles</span>
-            </a>
-            <a class="button" href="/recommendations/" rel="noopener" title="Things I Use and Recommend">
-                <span class="button-inner">Things I Use and Recommend</span>
-            </a>
-        </div>
+<body class="text-black duration-100 ease-out bg-[var(--bg)] dark:text-white">
+  <!-- Header -->
+<header class="bg-[var(--header)] fixed top-0 z-40 mx-auto min-h-[3.25rem] w-full header-icons">
+  <div class="mx-auto w-full max-w-4xl p-2.5 lg:flex lg:justify-between">
+    <div class="flex justify-between">
+      <div class="flex items-center min-h-8">
+        <a title="Go to home page" accesskey="!"
+          href="http://raultaveras.online/" class="text-2xl font-semibold">Raúl E. Taveras&#x27;s Website</a>
+        <button type="button" title="Switch color scheme" accesskey="$"
+          onclick="window.linkita.toggleDarkMode();" ondblclick="window.linkita.resetDarkMode();"
+          class="btn-dark ml-4 h-6 w-6 shrink-0 cursor-pointer text-[0] bg-center bg-no-repeat bg-cover dark:invert [background-image:var(--icon-theme-dark)] dark:[background-image:var(--icon-theme-light)]"
+        ></button>
+      </div>
+      <div title="Menu" role="button" accesskey="+" tabindex="0"
+        class="btn-menu relative z-50 flex h-8 w-8 shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+        onclick="window.linkita.toggleHeaderMenu();"
+        onkeydown="(event.keyCode == 13 || event.keyCode == 32) ? event.preventDefault() || window.linkita.toggleHeaderMenu() : true;"
+      ></div>
     </div>
+    <nav class="flex w-full items-center lg:w-auto">
+      <menu
+        class="nav-wrapper flex w-full flex-col py-2 lg:w-auto lg:flex-row lg:self-center lg:py-0">
+        <li>
+          <a
+            class="primary-link block py-2 text-center text-lg font-medium lg:px-3 lg:py-0"
+            href="http://raultaveras.online/articles/"
+          >Articles</a>
+        </li>
+        <li>
+          <a
+            class="primary-link block py-2 text-center text-lg font-medium lg:px-3 lg:py-0"
+            href="http://raultaveras.online/tags/"
+          >Tags</a>
+        </li>
+      </menu>
+      <!-- Begin Header Nav inject -->
+      
+      <!-- End Header Nav inject -->
+    </nav>
+  </div>
+</header>
+
+  <!-- Begin Body Start inject -->
+  
+  <!-- End Body Start inject -->
+  <main class="prose prose-neutral relative mx-auto min-h-[calc(100%-4rem)]
+    max-w-3xl break-words px-4 pb-12 pt-28 lg:pt-32 dark:prose-invert prose-pre:rounded-lg prose-img:rounded-lg">
+    
+    <!-- Profile -->
+<div class="mb-16 flex items-start">
+  <div
+    class="not-prose mr-5 shrink-0 rounded-full border-[0.5px] border-black/10 bg-white/50 p-3 shadow dark:bg-white/[15%]">
+    <img
+      class=" my-0 aspect-square w-16 rounded-full !bg-black/5 hover:animate-spin"
+      src="http://raultaveras.online/raulforward1.jpg?h=f2f031465c8b868eb2d6" alt="Raul facing toward the camera, wearing a black hoodie" />
+  </div>
+  <div>
+    <h1 class="mb-2 text-3xl font-bold">Raúl Ernesto Taveras Franco</h1>
+    <div class="mb-2 break-words">
+      I am Raúl: Christian, linguistics lover, diplomacy professional, citizen of the world. Welcome to my website!
+    </div>
+  </div>
 </div>
 
-    </main>
-    <footer class="h-card vcard footer">
-    <pre class="wp-block-code"><code>
+      <!-- Page List -->
+<section
+  class="block-bg relative mb-4 rounded-lg p-4 first-of-type:mt-0 last-of-type:mb-0 active:scale-95 lg:mb-6 lg:p-6"
+>
 
-	<a style="text-decoration: none" href=//www.raultaveras.online class="p-name u-url url author metatag" rel="me">Raúl Ernesto Taveras Franco</a> / <a class="u-email email metatag" rel="me" href="mailto:raul@raultaveras.online">raul@raultaveras.online</a>
+  <h2 class="!my-0 pb-1 font-bold !leading-none">WhatsApp Channels: The evolution &amp; devolution of communication</h2>
+  <div class="my-1 truncate"></div>
 
-	<img class="u-photo" style="object-fit:scale-down; width:15%; height:15%; margin:auto;" src="/raulforward1.jpeg" alt="Raul facing forward and to the right" />
-	
-    </code>
-<a href="https://www.instagram.com/raul.e.taveras/" class="u-x-instagram u-url" rel="me"></a>
-<a href="https://twitter.com/realraulernesto" class="u-x-twitter u-url" rel="me"></a>
-<a href="https://ohai.social/@rauletaveras" class="u-x-mastodon u-url" rel="me"></a>
-    <link rel="webmention" href="https://webmention.io/www.raultaveras.online/webmention" />
+  <!-- Page Info -->
+<div class="text-sm antialiased opacity-80"><time
+      datetime="2023-10-30T00:00:00+00:00">2023-10-30</time><span
+        class="mx-1">&middot;</span><time
+    datetime="PT0H6M0S">6&nbsp;min</time>
+</div>
+
+  <a class="absolute inset-0 text-[0]" href="http://raultaveras.online/articles/20231030-ws-channels-rss/">WhatsApp Channels: The evolution &amp; devolution of communication</a>
+</section>
+<nav class="mt-16 flex">
+</nav>
+
+    
+  </main>
+  <!-- Footer -->
+<footer class="mx-auto flex lg:mt-5 max-w-3xl flex-wrap items-center px-4 py-3 text-sm opacity-60">
+  <div class="mr-auto basis-full lg:basis-1/2">
+  © <time datetime="2025">2025</time>
+  </div>
+  <div class="flex basis-full lg:basis-1/2 lg:justify-end">
+    <span class="mr-6 lg:ml-6">
+      <a class="link" href="https://www.getzola.org/" target="_blank">Powered by Zola</a>
+    </span>
+    <a class="link" href="https://www.getzola.org/themes/linkita/" target="_blank">&#9998; Linkita</a>
+  </div>
+  <!-- Begin Footer inject -->
+  
+  <!-- End Footer inject -->
 </footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
 
+  
+
+  <!-- Begin Body End inject -->
+  
+  <!-- End Body End inject -->
 </body>
 
 </html>

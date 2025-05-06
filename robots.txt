@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
-Sitemap: //www.raultaveras.online/sitemap.xml
+Allow: /
+Sitemap: http://raultaveras.online/sitemap.xml
