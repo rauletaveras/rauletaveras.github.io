@@ -14,56 +14,58 @@ If you use Android, I recommend the app
 ## Linguistics and Language
 - A Way with Words
 - Conlangery – For Constructing Languages
+- en clair: forensic linguistics, literary detection, language mysteries, and more
 - Lexicon Valley
+- [Lingthusiasm](https://lingthusiasm.com/)
 - New Books in Language
 - That's What They Say
 - The Allusionist
 - The Endless Knot
+- [The History of English](https://historyofenglishpodcast.com/)
 - Words for Granted
 - Wordy Wordpecker
-- [The History of English](https://historyofenglishpodcast.com/)
-- [Lingthusiasm](https://lingthusiasm.com/)
-- en clair: forensic linguistics, literary detection, language mysteries, and more
 
 ## History
-- The History of Rome Podcast - The OG History Podcast.
-- The History of Bizantium Podcast - A Successor to the History of Rome.
-- The Revolutions Podcast - A podcast about world revolutions
-by the same guy who made The History of Rome.
+- Dan Carlin's Hardcore History
 - Footnoting History
-- The History of the Papacy Podcast
+- Stuff You Missed in History Class
+- The History of Byzantium Podcast - A Successor to the History of Rome.
 - The History of China
 - The History of Islam
-- Dan Carlin's Hardcore History
-- Stuff You Missed in History Class
+- The History of Rome Podcast - The OG History Podcast.
+by the same guy who made The History of Rome.
+- The History of the Papacy Podcast
+- The Revolutions Podcast - A podcast about world revolutions
 - Wrath of the Khans Series by Dan Carlin
 
 ## Design
-- 99% Invisible - The Best on Design in all senses: Urban, space, interior, graphic, transit, systems, sound, and whatever else you can think of. Probably more.
+- 99% Invisible - The Best on Design in all senses:
+Urban, space, interior, graphic, transit, systems, sound,
+and whatever else you can think of. Probably more.
 
 ## General Knowledge
-- Tell Me Something I Don't Know
+- Every Little Thing
+- Extremities
 - Freakonomics: A podcast about economics and related things (hint: everything)
+- Inner Cosmos with David Eagleman — An excellent psychology and neurology podcast.
+- Tell Me Something I Don't Know
 by brilliant economist and communicator Stephen Dubner.
 This podcast is for everyone who wants to build a better society.
 - Freakonomics MD: A spin-off of Freakonomics focusing on medical issues.
-- Every Little Thing
+- People I (Mostly) Admire
 - Stuff You Should Know
 - Surprisingly Awesome
 - The Neurospace Podcast - Made by my very knowledgable and passionate neurologist/psychologist friend, Camila Hasbún.
-- Extremities
-- People I (Mostly) Admire
 - Sudhir Breaks the Internet
-- Inner Cosmos with David Eagleman — An excellent psychology and neurology podcast.
 
 ## Mathematics
-- The Numberphile Podcast
 - My Favorite Theorem
+- The Numberphile Podcast
 
 ## Christian Sermons
 - John Piper's Sermons (Desiring God)
-- Renewing Your Mind with R.C. Sproul
 - Renova2 - Made by my two dear and extremely talented friends Laura and Jason.
+Now archived.
 - Exploring my Strange Bible
 
 ## Bible Study and Theology
@@ -74,8 +76,8 @@ This podcast is for everyone who wants to build a better society.
 ## Fiction
 - Among the Stars and Bones
 - bomBARDed - A Musical Dungeons and Dragons Podcast
-- Passenger List
 - Girl in Space - My favorite fictional podcast.
+- Passenger List
 - Spout Lore - A Dungeon World Podcast
 - The Adventure Zone - An entertainment empire that started with Dungeons and Dragons
 
