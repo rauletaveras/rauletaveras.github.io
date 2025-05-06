@@ -1,3 +1,4 @@
-[submodule "themes/linkita"]
-	path = themes/linkita
-	url = https://codeberg.org/salif/linkita.git
+[submodule "public"]
+	path = public
+	url = https://github.com/rauletaveras/rauletaveras.github.io.git
+	branch = main

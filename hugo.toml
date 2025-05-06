@@ -1,0 +1,60 @@
+baseURL = '//www.raultaveras.online'
+title = "Raúl E. Taveras's Website"
+description = "Raúl E. Taveras's Website"
+theme='hugo-PaperModX'
+
+languageCode = 'en'
+defaultContentLanguage = 'en'
+
+enableRobotsTXT = 'true'
+
+copyright = '© Raúl Ernesto Taveras Franco'
+[params.author]
+name = "Raúl Ernesto Taveras Franco"
+shortName = "Raúl E. Taveras F."
+email = "raul@raultaveras.online"
+
+[params]
+DateFormat = '2006-01-02 Mon'
+defaultTheme = 'light'
+UseHugoToc = 'true'
+ShowShareButtons = 'true'
+ShowBreadCrumbs = 'true'
+
+[params.profileMode]
+enabled=true
+subtitle = "I am Raúl: Christian, linguistics lover, diplomacy professional, born in the Dominican Republic but citizen of the world. Welcome to my website!"
+imageUrl = 'raulforward1.jpeg'
+imageWidth = 120
+imageHeight = 120
+
+[[params.profileMode.buttons]]
+name = 'Articles'
+url = "/articles/"
+
+[[params.profileMode.buttons]]
+name = 'Things I Use and Recommend'
+url = "/recommendations/"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+[languages.en.menu]
+
+# [languages.es]
+# languageName = "Español"
+# weight = 2
+# [languages.es.menu]
+
+# [[languages.en.menu.main]]
+# identifier = 'tags'
+# name = 'tags'
+# url = '/tags/'
+# weight = '10'
+
+# [[languages.es.menu.main]]
+# identifier = 'etiquetas'
+# name = 'etiquetas'
+# url = '/tags/'
+# weight = '10'

@@ -1,0 +1,22 @@
+<footer class="h-card vcard footer">
+    <pre class="wp-block-code"><code>
+
+	<a style="text-decoration: none" href={{ .Site.BaseURL }} class="p-name u-url url author metatag" rel="me">{{ .Params.author.name }}</a> / <a class="u-email email metatag" rel="me" href="mailto:{{ .Params.author.email }}">{{ .Params.author.email }}</a>
+
+	<img class="u-photo" style="object-fit:scale-down; width:15%; height:15%; margin:auto;" src="/raulforward1.jpeg" alt="Raul facing forward and to the right" />
+	<!--	<a href="/index.xml"><img src="/rss.svg" style="width:10%;" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+	-->
+    </code>
+<a href="https://www.instagram.com/raul.e.taveras/" class="u-x-instagram u-url" rel="me"></a>
+<a href="https://twitter.com/realraulernesto" class="u-x-twitter u-url" rel="me"></a>
+<a href="https://ohai.social/@rauletaveras" class="u-x-mastodon u-url" rel="me"></a>
+    <link rel="webmention" href="https://webmention.io/www.raultaveras.online/webmention" />
+</footer>
+
+{{- if (not site.Params.disableScrollToTop) }}
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+{{- end }}
