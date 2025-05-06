@@ -37,3 +37,14 @@ menu_name = [
   { url = "$BASE_URL/articles/", name = "Articles" },
   { url = "$BASE_URL/tags/", name = "Tags" },
 ]
+
+
+# Use relative urls.
+# It doesn't apply for content yet.
+# Default value: false
+relative_urls = true
+
+# If you want to view the site without a webserver
+# set this and "relative_urls" to true.
+# Default value: false
+urls_to_index_html = true
