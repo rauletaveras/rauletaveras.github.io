@@ -124,7 +124,8 @@ WhatsApp and Telegram channels exist
 because the internet has become a much more hostile place to find information,
 as websites are flooded with premade, AI-written articles
 filled to the brim with ads, popups, and subscription requests.
-They attempt to solve this by providing a direct means for one-way communication,
+They attempt to solve this
+by providing a direct means for one-way communication,
 but they do so in a way that leaves information vulnerable to irretrievable loss and manipulation.
 The creators of RSS had already solved this problem in 1999,
 even before the advent of search engines.
