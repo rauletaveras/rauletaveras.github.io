@@ -1,0 +1,39 @@
+# The URL the site will be built for
+base_url = "http://raultaveras.online"
+theme = "linkita" # NB: This was implemented as a git submodule, not cloned.
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+title = "Raúl E. Taveras's Website"
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[[taxonomies]]
+name = "tags"
+feed = true
+paginate_by = 4
+
+[extra]
+# Put all your custom variables here
+header_menu_name = "menu_name"
+
+[extra.profiles.raul]
+name = "Raúl Ernesto Taveras Franco"
+bio = "I am Raúl: Christian, linguistics lover, diplomacy professional, citizen of the world. Welcome to my website!"
+avatar_url = "raulforward1.jpg"
+avatar_alt = "Raul facing toward the camera, wearing a black hoodie"
+
+[extra.menus]
+menu_name = [
+  { url = "$BASE_URL/articles/", name = "Articles" },
+  { url = "$BASE_URL/tags/", name = "Tags" },
+]
