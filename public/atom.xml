@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Raúl E. Taveras&#x27;s Website</title>
-    <link rel="self" type="application/atom+xml" href="http://raultaveras.online/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://raultaveras.online"/>
+    <link rel="self" type="application/atom+xml" href="raultaveras.online/atom.xml"/>
+    <link rel="alternate" type="text/html" href="raultaveras.online"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-10-30T00:00:00+00:00</updated>
-    <id>http://raultaveras.online/atom.xml</id>
+    <id>raultaveras.online/atom.xml</id>
     <entry xml:lang="en">
         <title>WhatsApp Channels: The evolution &amp; devolution of communication</title>
         <published>2023-10-30T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://raultaveras.online/articles/20231030-ws-channels-rss/"/>
-        <id>http://raultaveras.online/articles/20231030-ws-channels-rss/</id>
+        <link rel="alternate" type="text/html" href="raultaveras.online/articles/20231030-ws-channels-rss/"/>
+        <id>raultaveras.online/articles/20231030-ws-channels-rss/</id>
         
-        <content type="html" xml:base="http://raultaveras.online/articles/20231030-ws-channels-rss/">&lt;p&gt;WhatsApp rolled out &quot;channels&quot; worldwide on &lt;a href=&quot;https:&#x2F;&#x2F;blog.whatsapp.com&#x2F;whatsapp-channels-are-going-global&quot;&gt;September 13, 2023&lt;&#x2F;a&gt;,
+        <content type="html" xml:base="raultaveras.online/articles/20231030-ws-channels-rss/">&lt;p&gt;WhatsApp rolled out &quot;channels&quot; worldwide on &lt;a href=&quot;https:&#x2F;&#x2F;blog.whatsapp.com&#x2F;whatsapp-channels-are-going-global&quot;&gt;September 13, 2023&lt;&#x2F;a&gt;,
 following the popularity of a similar feature in Telegram &lt;a href=&quot;https:&#x2F;&#x2F;telegram.org&#x2F;blog&#x2F;channels&quot;&gt;introduced 7 years prior&lt;&#x2F;a&gt;.
 Through channels, users can subscribe to one-sided chat feeds and
 receive updates from individuals or organizations directly to their devices.

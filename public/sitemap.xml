@@ -1,16 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>//localhost:1313/en/sitemap.xml</loc>
-    
-      <lastmod>2023-10-30T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>//localhost:1313/es/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>raultaveras.online/</loc>
+</url>
+<url>
+  <loc>raultaveras.online/articles/</loc>
+</url>
+<url>
+  <loc>raultaveras.online/articles/20231030-ws-channels-rss/</loc>
+  <lastmod>2023-10-30</lastmod>
+</url>
+<url>
+  <loc>raultaveras.online/page/1/</loc>
+</url>
+<url>
+  <loc>raultaveras.online/tags/</loc>
+</url>
+<url>
+  <loc>raultaveras.online/tags/articles/</loc>
+</url>
+<url>
+  <loc>raultaveras.online/tags/articles/page/1/</loc>
+</url>
+<url>
+  <loc>raultaveras.online/tags/technology/</loc>
+</url>
+<url>
+  <loc>raultaveras.online/tags/technology/page/1/</loc>
+</url>
+</urlset>

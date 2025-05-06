@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://raultaveras.online"
+base_url = "www.raultaveras.online"
 theme = "linkita" # NB: This was implemented as a git submodule, not cloned.
 
 # Whether to automatically compile all Sass files in the sass directory
