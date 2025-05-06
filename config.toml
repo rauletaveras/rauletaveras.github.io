@@ -48,3 +48,7 @@ relative_urls = true
 # set this and "relative_urls" to true.
 # Default value: false
 urls_to_index_html = true
+
+[extra.footer]
+license_url = "https://creativecommons.org/licenses/by/4.0/"
+copyright = "&copy; $YEAR Raúl Ernesto Taveras Franco &vert; [CC BY 4.0]($LICENSE_URL)"
