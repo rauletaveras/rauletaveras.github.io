@@ -34,13 +34,13 @@ header_menu_name = "menu_name"
 
 [extra.profiles.raul]
 name = "Raúl Ernesto Taveras Franco"
-bio = "I am Raúl: Christian, linguistics lover, diplomacy professional, citizen of the world. Welcome to my website!"
+bio = "I am Raúl: Christian, linguistics lover, diplomacy professional, inhabitant of the world. Welcome to my website!"
 avatar_url = "raulforward1.jpg"
 avatar_alt = "Raul facing toward the camera, wearing a black hoodie"
 
 [extra.profiles.raul.languages.es]
 name = "Raúl Ernesto Taveras Franco"
-bio = "Soy Raúl: Cristiano, amante de la lingüística, profesional de la diplomacia, ciudadano del mundo. Bienvenidos a mi sitio web!"
+bio = "Soy Raúl: Cristiano, amante de la lingüística, profesional de la diplomacia, habitante del mundo. Bienvenidos a mi sitio web!"
 avatar_url = "raulforward1.jpg"
 avatar_alt = "Raul facing toward the camera, wearing a black hoodie"
 
