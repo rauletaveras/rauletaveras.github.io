@@ -49,12 +49,14 @@ Dios descansando, sentado en Su trono,
 y los humanos en paz con los animales y entre ellos,
 gobernando la tierra en Su nombre. 
 
-> “¿Qué es el hombre, para que tengas de él memoria,<br>
+> "¿Qué es el hombre, para que tengas de él memoria,<br>
 > y el hijo del hombre, para que lo visites?<br>
-> Lo has hecho poco menor que los seres celestiales y lo coronaste de gloria y de honra.
-> Le hiciste gobernar sobre las obras de tus manos; todo lo pusiste debajo de sus pies” (Sal. 8:4-5)
+> Lo has hecho poco menor que los seres celestiales
+> y lo coronaste de gloria y de honra.<br>
+> Le hiciste gobernar sobre las obras de tus manos;
+> todo lo pusiste debajo de sus pies" (Sal. 8:4-5)
 
->  “Y vio Dios todo lo que había hecho, y era bueno en gran manera” (Gen. 1:31)
+> "Y vio Dios todo lo que había hecho, y era bueno en gran manera" (Gen. 1:31)
 
 ## La noche
 Sin embargo, la humanidad fue engañada:
@@ -63,8 +65,8 @@ Al caer, la Biblia muestra que las cosas no están como en el séptimo día,
 sino que se ve:
 Fornicación, inmundicia, idolatría, enemistades,
 pleitos, celos, iras, contiendas,
-envidias, homicidios, borracheras (Gal. 5:19-21),
-llanto (Sal. 30).
+envidias, homicidios, borracheras (Gal. 5:19-21)
+y llanto (Sal. 30).
 De hecho, una de las primeras cosas que nos narra la Biblia
 que pasó después del Huerto fue un asesinato (Caín y Abel).
 
@@ -88,37 +90,73 @@ vista por los sabios del Oriente, en medio de la noche (Mateo 2).
 Sobre la promesa de gobernar, Heb. 2:8
 > "Pero todavía no vemos que todas las cosas le sean sujetas,
 > pero vemos a Jesús, a aquel que fue hecho un poco menor que los ángeles,
-> coronado de gloria y de honra> ”
+> coronado de gloria y de honra> ""
 
 Vemos que la venida de Jesús nos transforma, orientándonos al día en vez de la noche:
-> “Porque vosotros sois hijos de la luz e hijos del día;
+> "Porque vosotros sois hijos de la luz e hijos del día;
 > no somos de la noche ni de las tinieblas.
 > Por tanto, no durmamos como los demás,
-> sino velemos y seamos sobrios” (1 Tes. 5:6). 
+> sino velemos y seamos sobrios" (1 Tes. 5:6). 
 
 Para mí, Apocalipsis da la visión de esperanza más impresionante:
- “Yo, Jesús… soy … la estrella resplandeciente de la mañana” (Apo 22:16).
+"Yo, Jesús… soy … la estrella resplandeciente de la mañana" (Apo 22:16).
 La estrella de la mañana se refiere a la estrella Sirio,
 que durante la canícula,
 los días más terribles del verano,
 sale justo antes del sol. 
+
+![Imagen de Sirio](@/data/sirius.jpg)
+*Sirio en la mañana, con el sol pronto a salir.*
 
 Jesús es la estrella que anuncia que viene el día una vez más,
 el octavo día, que es un nuevo primer día de la creación.
 
 Qué trae el octavo día? Cuál es nuestra esperanza?
 
->  “Por la noche durará el lloro, y a la mañana vendrá la alegría” (Sal. 30:5)
+>  "Por la noche durará el lloro, y a la mañana vendrá **la alegría**" (Sal. 30:5)
 
->  “Él enjugará toda lágrima de sus ojos, y ya no habrá muerte,
+> "Él enjugará toda lágrima de sus ojos, y ya no habrá muerte,
 > ni habrá más duelo, ni clamor, ni dolor,
 > porque las primeras cosas han pasado,
 > y el que está sentado en el trono dijo:
-> He aquí, yo hago nuevas todas las cosas” (Apo. 21:4-5). 
+> He aquí, yo hago nuevas todas las cosas" (Apo. 21:4-5). 
 
 > "Mas para ustedes que temen mi nombre,
-> se levantará el sol de justicia con sanidad en sus alas;
+> se levantará el **sol de justicia** con sanidad en sus alas;
 > y saldrán y saltarán como terneros del establo" (Mal. 4:2).
+
+Esta esperanza no es solamente una esperanza para el último tiempo.
+Jesucristo está vivo hoy, la estrella se ha levantado.
+A través de su resurrección, nos invita a nosotros mismos
+a participar del poder de su resurrección (Fil. 3:10)
+y de la **esperanza viva** hoy, trayendo luz
+
+> "Bendito sea el Dios y Padre de nuestro Señor Jesucristo,
+> quien según su gran misericordia,
+> nos ha hecho nacer de nuevo a **una esperanza viva**,
+> mediante la resurrección de Jesucristo de entre los muertos
+> \[...\]
+> para la salvación que está preparada para ser revelada en el último tiempo.
+> En lo cual \[ustedes\] **se gozan grandemente**, aunque ahora,
+> por un poco de tiempo si es necesario, **son afligidos con diversas pruebas**.
+> Por tanto, \[...\]
+> **pongan su esperanza** completamente
+> en la gracia que se les traerá en la revelación de Jesucristo"
+> (1 Pedro 1:3-6, 13).
+
+## Conclusión
+El Séptimo Día ——con la creación completada y Dios sentado en Su trono,
+con la humanidad gobernando la tierra a Su imagen, y en paz——
+no se diseñó para terminar.
+Estamos en la noche de ese Séptimo Día: en oscuridad, en dolor, en llanto.
+Sin embargo, la noche está acabando,
+y Jesús es la estrella de la mañana que nos indica que ya viene el día,
+el Octavo Día, el nuevo Primer Día. 
+Esta esperanza se ofrece a todo
+el que confiese a Jesús como Rey y se rinda a Él.
+Recíbelo y confiésalo hoy!
+
+
 
 [^1]: Todas las citas utilizan la Nueva Biblia de las Américas al menos que se indique lo contrario.
 
