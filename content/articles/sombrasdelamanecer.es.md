@@ -83,5 +83,14 @@ y necesitamos rescate**.
 El nacimiento de Jesús fue anunciado por una estrella
 vista por los sabios del Oriente, en medio de la noche (Mateo 2). 
 
+"Yo soy la luz del mundo" (Juan 8:12)
+
+Sobre la promesa de gobernar, Heb. 2:8
+> "Pero todavía no vemos que todas las cosas le sean sujetas,
+> pero vemos a Jesús, a aquel que fue hecho un poco menor que los ángeles,
+> coronado de gloria y de honra> ”
+
+La 
+
 [^1]: Todas las citas utilizan la Nueva Biblia de las Américas al menos que se indique lo contrario.
 
