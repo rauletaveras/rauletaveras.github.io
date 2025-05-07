@@ -90,7 +90,35 @@ Sobre la promesa de gobernar, Heb. 2:8
 > pero vemos a Jesús, a aquel que fue hecho un poco menor que los ángeles,
 > coronado de gloria y de honra> ”
 
-La 
+Vemos que la venida de Jesús nos transforma, orientándonos al día en vez de la noche:
+> “Porque vosotros sois hijos de la luz e hijos del día;
+> no somos de la noche ni de las tinieblas.
+> Por tanto, no durmamos como los demás,
+> sino velemos y seamos sobrios” (1 Tes. 5:6). 
+
+Para mí, Apocalipsis da la visión de esperanza más impresionante:
+ “Yo, Jesús… soy … la estrella resplandeciente de la mañana” (Apo 22:16).
+La estrella de la mañana se refiere a la estrella Sirio,
+que durante la canícula,
+los días más terribles del verano,
+sale justo antes del sol. 
+
+Jesús es la estrella que anuncia que viene el día una vez más,
+el octavo día, que es un nuevo primer día de la creación.
+
+Qué trae el octavo día? Cuál es nuestra esperanza?
+
+>  “Por la noche durará el lloro, y a la mañana vendrá la alegría” (Sal. 30:5)
+
+>  “Él enjugará toda lágrima de sus ojos, y ya no habrá muerte,
+> ni habrá más duelo, ni clamor, ni dolor,
+> porque las primeras cosas han pasado,
+> y el que está sentado en el trono dijo:
+> He aquí, yo hago nuevas todas las cosas” (Apo. 21:4-5). 
+
+> "Mas para ustedes que temen mi nombre,
+> se levantará el sol de justicia con sanidad en sus alas;
+> y saldrán y saltarán como terneros del establo" (Mal. 4:2).
 
 [^1]: Todas las citas utilizan la Nueva Biblia de las Américas al menos que se indique lo contrario.
 
