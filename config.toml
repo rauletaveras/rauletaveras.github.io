@@ -12,18 +12,21 @@ title = "Raúl E. Taveras's Website"
 generate_feeds = true
 feed_filenames = ["atom.xml"]
 
+default_language = "en"
 
 # When set to "true", the generated HTML files are minified.
 minify_html = true
+
+[[taxonomies]]
+name = "tags"
+feed = true
+paginate_by = 4
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 smart_punctuation = true
-[[taxonomies]]
-name = "tags"
-feed = true
-paginate_by = 4
 
 [extra]
 # Put all your custom variables here
@@ -35,13 +38,22 @@ bio = "I am Raúl: Christian, linguistics lover, diplomacy professional, citizen
 avatar_url = "raulforward1.jpg"
 avatar_alt = "Raul facing toward the camera, wearing a black hoodie"
 
+[extra.profiles.raul.languages.es]
+name = "Raúl Ernesto Taveras Franco"
+bio = "Soy Raúl: Cristiano, amante de la lingüística, profesional de la diplomacia, ciudadano del mundo. Bienvenidos a mi sitio web!"
+avatar_url = "raulforward1.jpg"
+avatar_alt = "Raul facing toward the camera, wearing a black hoodie"
+
 [extra.menus]
 menu_name = [
   { url = "$BASE_URL/articles/", name = "Articles" },
   { url = "$BASE_URL/tags/", name = "Tags" },
 ]
 
-
+multilingual_menu_name = [
+  { url = "$BASE_URL/articles/", names = {en = "Articles", es = "Artículos"} },
+  { url = "$BASE_URL/tags/", names = {en = "Tags", es = "Etiquetas"} }
+]
 # Use relative urls.
 # It doesn't apply for content yet.
 # Default value: false
@@ -55,3 +67,14 @@ urls_to_index_html = true
 [extra.footer]
 license_url = "https://creativecommons.org/licenses/by/4.0/"
 copyright = "&copy; $YEAR Raúl Ernesto Taveras Franco &vert; [CC BY 4.0]($LICENSE_URL)"
+
+[languages.es]
+title = "Sitio web de Raúl E. Taveras"
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+[[taxonomies]]
+name = "etiquetas"
+feed = true
+paginate_by = 4
+
