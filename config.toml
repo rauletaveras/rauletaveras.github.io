@@ -30,7 +30,7 @@ smart_punctuation = true
 
 [extra]
 # Put all your custom variables here
-header_menu_name = "menu_name"
+header_menu_name = "multilingual_menu_name"
 
 [extra.profiles.raul]
 name = "Raúl Ernesto Taveras Franco"
