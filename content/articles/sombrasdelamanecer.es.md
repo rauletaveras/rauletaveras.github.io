@@ -54,6 +54,34 @@ gobernando la tierra en Su nombre.
 > Lo has hecho poco menor que los seres celestiales y lo coronaste de gloria y de honra.
 > Le hiciste gobernar sobre las obras de tus manos; todo lo pusiste debajo de sus pies” (Sal. 8:4-5)
 
+>  “Y vio Dios todo lo que había hecho, y era bueno en gran manera” (Gen. 1:31)
+
+## La noche
+Sin embargo, la humanidad fue engañada:
+en vez de gobernar con Dios, quisimos gobernar a nuestro modo.
+Al caer, la Biblia muestra que las cosas no están como en el séptimo día,
+sino que se ve:
+Fornicación, inmundicia, idolatría, enemistades,
+pleitos, celos, iras, contiendas,
+envidias, homicidios, borracheras (Gal. 5:19-21),
+llanto (Sal. 30).
+De hecho, una de las primeras cosas que nos narra la Biblia
+que pasó después del Huerto fue un asesinato (Caín y Abel).
+
+En el tiempo actual,
+cada día hay malas noticias.
+Hay dolores y lamentos nuevos en nuestras vidas todos los días.
+
+La Biblia no intenta pintar una imagen de que todo está bien;
+al contrario, hasta más de un tercio
+de los Salmos son de lamento.
+
+**Un punto central de la Biblia es que nuestro sufrimiento es grande
+y necesitamos rescate**.
+
+## Jesús, la luz y esperanza viva
+El nacimiento de Jesús fue anunciado por una estrella
+vista por los sabios del Oriente, en medio de la noche (Mateo 2). 
 
 [^1]: Todas las citas utilizan la Nueva Biblia de las Américas al menos que se indique lo contrario.
 
