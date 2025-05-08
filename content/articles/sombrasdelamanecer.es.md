@@ -4,7 +4,7 @@ date = 2025-05-07
 draft = true
 
 [taxonomies]
-etiquetas = ['artículos', 'cristiano']
+tags = ['artículos', 'cristiano']
 +++
 
 Este artículo se basa en un mensaje que compartí en nuestra Iglesia de Jóvenes el 08 de octubre de 2020.

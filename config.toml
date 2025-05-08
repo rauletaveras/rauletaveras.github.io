@@ -72,9 +72,5 @@ copyright = "&copy; $YEAR Raúl Ernesto Taveras Franco &vert; [CC BY 4.0]($LICEN
 title = "Sitio web de Raúl E. Taveras"
 generate_feeds = true
 feed_filenames = ["atom.xml"]
-
-[[taxonomies]]
-name = "etiquetas"
-feed = true
-paginate_by = 4
+taxonomies = [{name = "tags", feed = true, paginate_by = 4}]
 
