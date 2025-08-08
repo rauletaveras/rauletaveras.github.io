@@ -1,6 +1,6 @@
 +++
 title = 'En las sombras del amanecer'
-date = 2025-05-07
+date = 2025-08-08
 draft = false
 
 [taxonomies]
