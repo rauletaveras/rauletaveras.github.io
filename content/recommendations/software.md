@@ -1,8 +1,7 @@
 ---
 title: "Software I use"
-draft: true
-date: 2025-10-10
-updated: 2025-10-29
+draft: false
+date: 2025-10-31
 ---
 
 # Software I use
