@@ -18,9 +18,9 @@ I am running [openSuse Tumbleweed](get.opensuse.org/tumbleweed/)
 using the KDE Plasma Desktop Environment.
 I'm testing between X11 and Wayland.
 
-### General[^2]
+### General[^1]
 
-- Konsole: Terminal emulator by KDE[^1].
+- Konsole: Terminal emulator by KDE[^2].
 - [Nushell](https://www.nushell.sh/): cross-platform shell (works on Windows!) where structured data is first-class.
 - [Obsidian](https://obsidian.md/): markdown text editor and ecosystem.
 - [Neovim](https://neovim.io/) (based on MINIMAX): modal and very extensible text editor for the terminal.
@@ -31,45 +31,45 @@ I'm testing between X11 and Wayland.
 - [Typst](https://typst.app/): a modern typesetting system. While still in pre-1.0.0 development, it is simpler and ultimately more powerful than LaTeX.
 - [Zellij](https://github.com/zellij-org/zellij): I didn't get it until I used it, then I did. Just try it. It will click.
 
-[^1]: I'm admittedly interested in Wezterm, but I'm done tinkering as of the date of this draft.
-
-[^2]: You may notice I haven't listed office suite software. 
+[^1]: You may notice I haven't listed office suite software. 
 I don't use office suites in my personal purposes.
 Where I would use a word processor,
 I use markdown or typst when I need more power.
 Instead of spreadsheets, I use hledger or nushell + json or yaml,
 and I basically never need to present slideshows anymore. 
 
+[^2]: I'm interested in [Wezterm](https://wezterm.org/index.html), but I'm done tinkering as of the date of this draft.
+
 ### Internet
 
 - [Zen Browser](https://zen-browser.app/) — flatpak version. What Arc Browser should have been.
-- See [below](#online-services) for online services I use.
+- See [below](#online-services) for some online services I use.
 
 ### File management
 
 - Dolphin: KDE Plasma's default GUI file manager.
 - [7zip](https://www.7-zip.org/): the world is a weird, weird place.
 - [Calibre](https://calibre-ebook.com/): ebook library manager, but words can't do it justice.
-- [Yazi](https://yazi-rs.github.io/): excellent terminal file manager
-- [jj (or jujutsu)](https://github.com/jj-vcs/jj): simple but powerful version control system that builds on, and is compatible with, [Git](https://git-scm.com/)
+- [Yazi](https://yazi-rs.github.io/): excellent terminal file manager.
+- [jj (or jujutsu)](https://github.com/jj-vcs/jj): simple but powerful version control system that builds on, and is compatible with, [Git](https://git-scm.com/).
 - [lazygit](https://github.com/jesseduffield/lazygit): terminal user interface (TUI) for Git, for the few occasions when I'm in a Git repository that isn't also a jj repository.
 - [restic](https://restic.net/): incremental back up utility with built-in encryption.
 
 ### Admin
 
 - [ZSA Keymapp](https://www.zsa.io/flash) + [Custom QMK repo](https://blog.zsa.io/oryx-custom-qmk-features/): for flashing firmware onto my Ergodox EZ and ZSA Voyager keyboards.
-- [Impression]: Tool for creating bootable USB drives from `.iso` files.
-- [GParted]: The age-old disk partition utility.
+- [Impression](https://apps.gnome.org/Impression/): Tool for creating bootable USB drives from `.iso` files.
+- [GParted](https://gparted.org/): The age-old disk partition utility.
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch): Utility to display system info to the terminal.
-- ssh: For connecting to my home server
-- [tldr](https://github.com/tldr-pages/tldr): Cheatsheet repository for command line utilities
+- ssh: For connecting to my home server.
+- [tldr](https://github.com/tldr-pages/tldr): Cheatsheet repository for command line utilities.
 - [Tailscale](https://tailscale.com/): Black magic VPN-like thing. I use it to connect to my home server outside of home.
 
 ### Gaming
 
-- [Steam](https://store.steampowered.com/)
+- [Steam](https://store.steampowered.com/).
 - [Lutris](https://lutris.net/): Manager for game installation and execution. Excellent for running Windows games through Proton.
-- Battle.net
+- Battle.net.
 
 ### Media
 
