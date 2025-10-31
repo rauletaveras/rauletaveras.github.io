@@ -89,64 +89,47 @@ and I basically never need to present slideshows anymore.
 - [Hledger](https://hledger.org/): command line utility for accounting using just plain text files.
 - [Starship](https://starship.rs/): customizable, cross-shell terminal prompt.
 
-<!-- ## Windows -->
-<!---->
-<!-- ### General -->
-<!---->
-<!-- - Flow Launcher (with Everything search) -->
-<!-- - Stardock Start11 -->
-<!-- - VSCodium -->
-<!-- - Neovim (based on MINIMAX) -->
-<!-- - Microsoft Powertoys -->
-<!-- - Expanso text expander -->
-<!-- - Obsidian -->
-<!---->
-<!-- ### Internet -->
-<!---->
-<!-- - Zen Browser -->
-<!-- - Internet Download Manager -->
-<!-- - Tixati -->
-<!---->
-<!-- ### File management -->
-<!---->
-<!-- - Directory Opus 13 -->
-<!-- - 7zip -->
-<!-- - DB Browser for SQLite -->
-<!-- - Teracopy -->
-<!-- - Calibre -->
-<!-- - Yazi -->
-<!-- - Free PDF Compressor -->
-<!---->
-<!-- ### Admin -->
-<!---->
-<!-- - Geek Uninstaller -->
-<!-- - Treesize Free -->
-<!-- - Xmouse button control -->
-<!-- - CPUID CPU-Z -->
-<!-- - WinaeroTweaker -->
-<!-- - ZSA Keymapp + QMK repo -->
-<!-- - Razer Synapse -->
-<!-- - BleachBit -->
-<!---->
-<!-- ### Gaming -->
-<!---->
-<!-- - Playnite -->
-<!-- - Steam -->
-<!-- - Battle.net -->
-<!---->
-<!-- ### Media -->
-<!---->
-<!-- - MPC-HC -->
-<!-- - AIMP -->
-<!-- - SumatraPDF -->
-<!-- - PDFXchange editor -->
-<!-- - GIMP -->
-<!---->
-<!-- ### Other -->
-<!---->
-<!-- - Brassica Sound Changer -->
-<!-- - Hledger -->
-<!---->
+## Windows
+
+Since I switched to Linux, 
+and this page is for software I currently used,
+I have greatly reduced it to what I kept installed in my small Windows partition.
+
+### General
+
+- [Flow Launcher](https://www.flowlauncher.com/) (with Everything search): Launcher for Windows. My first or second install every single time. It makes the start menu basically obsolete.
+- [Stardock Start11](https://www.stardock.com/products/start11/): Excellent taskbar and start menu customization. _(Paid)_
+- Neovim (see Linux section)
+- [Microsoft Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/): An amazing set of tools. If you're anything above a completely basic user, you should look into this. It will likely significantly improve your quality of life while using your PC.
+- [Windows Terminal](https://github.com/microsoft/terminal): Generally very good and customizable terminal emulator.
+
+### Internet
+
+- Zen Browser
+- [Internet Download Manager](https://www.internetdownloadmanager.com/): The fast and famous download manager. _(Paid)_
+
+### File management
+
+- [Directory Opus 13](https://www.gpsoft.com.au/): One of, if not _the_, most powerful file managers on Windows. _(Paid)_
+- 7zip
+- [Teracopy](https://www.codesector.com/teracopy): Utility that improves moving and copying. It's much, much, much faster than Windows Explorer, and it's also safer since it implements file integrity validation.
+- Yazi
+
+### Admin
+
+- [Geek Uninstaller](https://geekuninstaller.com/): Very powerful and portable uninstaller utility. I don't keep this installed; rather I keep it on a USB flash drive.
+- [Treesize Free](https://www.jam-software.com/treesize): Disk usage analyzer; lets you see how much storage is used by each directory and file, recursively.
+- [Xmouse button control](https://x-mousebuttoncontrol.com/): Utility to customize how mouse inputs get interpreted. I use it whenever I'm not using a Razer mouse.
+- [CPUID CPU-Z](https://www.cpuid.com/softwares/cpu-z.html): Display information about your hardware. Particularly useful since it includes info otherwise scattered.
+- [WinaeroTweaker](https://winaerotweaker.com/): Powerful tool to turn Windows features on and off and customize Windows.
+- [ZSA Keymapp](https://www.zsa.io/flash) + [Custom QMK repo](https://blog.zsa.io/oryx-custom-qmk-features/): for flashing firmware onto my Ergodox EZ and ZSA Voyager keyboards.
+- [Razer Synapse](https://www.razer.com/synapse-4): Powerful software to customize Razer hardware; in my case, it's just the mouse.
+- [BleachBit](https://www.bleachbit.org/): A very powerful disk cleaning utility.
+
+### Media
+
+- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader): Lightweight PDF reader. 
+
 ## Online services
 
 - **Proton suite**: Proton AG is a Swiss technology company that offers services focused on (and known for) privacy through encryption and relatively low data collection, particularly when compared with the Google and Microsoft services it competes with.
