@@ -23,7 +23,7 @@ I'm testing between X11 and Wayland.
 - Konsole: Terminal emulator by KDE[^2].
 - [Nushell](https://www.nushell.sh/): cross-platform shell (works on Windows!) where structured data is first-class.
 - [Obsidian](https://obsidian.md/): markdown text editor and ecosystem.
-- [Neovim](https://neovim.io/) (based on MINIMAX): modal and very extensible text editor for the terminal.
+- [Neovim](https://neovim.io/) (based on [MINIMAX](https://nvim-mini.org/MiniMax/)): modal and very extensible text editor for the terminal.
 - [Espanso](https://espanso.org/): open-source text expander. Incredibly useful for repeated text and for symbols not easy to type, like the em dash (—). Note its Wayland support is in development.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): an upgrade to `cd` (change directory) that keeps track of the frequency of your visits to directories and lets you change to them with fuzzy finding.
 - less: Unix's terminal pager _par excellence_.
