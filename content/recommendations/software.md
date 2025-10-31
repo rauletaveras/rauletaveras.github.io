@@ -63,7 +63,6 @@ and I basically never need to present slideshows anymore.
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch): Utility to display system info to the terminal.
 - ssh: For connecting to my home server.
 - [tldr](https://github.com/tldr-pages/tldr): Cheatsheet repository for command line utilities.
-- [Tailscale](https://tailscale.com/): Black magic VPN-like thing. I use it to connect to my home server outside of home.
 
 ### Gaming
 
@@ -138,12 +137,38 @@ I have greatly reduced it to what I kept installed in my small Windows partition
     - [Proton Pass](https://proton.me/pass): Password manager.
     - [Proton Calendar](https://proton.me/calendar): A cloud calendar manager. I don't particularly need its features or its (limited) integration with other Proton services, but I also don't need something particularly powerful, so might as well.
     - [Proton VPN](https://protonvpn.com/): Among VPNs, designed to be particularly private. I no longer use it too much.
-- YouTube Premium: this is my music streamer of choice. If you're using Spotify, you're _really_ missing out on sound quality. You think you don't have a good enough ear to tell the difference? Think again.
+- YouTube Premium / Music: this is my music streamer of choice. If you're using Spotify, you're _really_ missing out on sound quality. You think you don't have a good enough ear to tell the difference? Think again.
 - [Raindrop.io](https://raindrop.io/): cloud bookmark manager. I feel I underuse this.
+- [GitHub](https://github.com/): Probably the most popular Git forge.
+- [Inoreader]: Cloud RSS aggregator and reader.
+- [Zotero]: Open-source bibliography / reference manager with proprietary cloud sync.
+- [Tailscale](https://tailscale.com/): Black magic VPN-like thing. I use it to connect to my home server outside of home.
 
-<!-- ## iOS -->
-<!---->
-<!-- - ... -->
+## iOS / iPadOS
+
+I'll skip the tools that merely enable compatibility with services I use elsewhere too.
+
+- Safari: Pretty good browser. We don't need to talk about how Apple kneecaps all other browsers.
+- Apple Photos: I don't need anything fancier.
+- Google Maps.
+- Apple Voice Memos.
+- [La Terminal](https://apps.apple.com/us/app/la-terminal-ssh-client/id1629902861): SSH client terminal. I use it to connect to my home server.
+- [Project Indigo](https://apps.apple.com/us/app/project-indigo/id6742591546): From the guys behind the Google Pixel camera, apparently best in class image processing to take full advantage of the phone's capabilities. It's definitely wasted on me, but I'll take what I can get.
+- [GuitarTuna](https://apps.apple.com/us/app/guitartuna-tune-play-guitar/id527588389): Guitar tuner.
+- [Bass Tuner B1](https://apps.apple.com/us/app/bass-tuner-bt1/id1433908656): Bass guitar tuner.
+- [BookPlayer](https://apps.apple.com/us/app/bookplayer/id1138219998): Audiobook player.
+- [YouVersion Bible](https://apps.apple.com/us/app/bible/id282935706): Extremely feature- and Bible-packed Bible app.
+- [Noteful](https://apps.apple.com/es/app/noteful-notes-pdf-markup/id1587904334): My favourite Apple Pencil note-taking app. It's essentially a PDF annotator. 
+- [PDF Viewer](https://apps.apple.com/es/app/pdf-viewer/id1120099014): Very feature-packed PDF reader.
+- [Day by Day by Forward Movement](https://apps.apple.com/us/app/forward-day-by-day/id561455965): App version of (a lot of) the Episcopal Book of Common Prayer, with surprising number of features, including Spanish versions of the Daily Office and recordings of the English version.
+- [Adguard](https://adguard.com/en/adguard-ios/overview.html): Good ad blocker. Used to be _the_ best; don't know if that's true anymore.
+- [QuickScan](https://apps.apple.com/us/app/quickscan-document-scanner/id1493336495): Maybe the best phone scanner app? It can also automatically export to paperless-ngx.
+- [Pocket Casts](https://apps.apple.com/us/app/pocket-casts-podcast-player/id414834813): Though I miss Android's [Podcast Addict](https://podcastaddict.com/), this does the job fine.
+- [Procreate](https://apps.apple.com/us/app/procreate/id425073498): It is exactly as good as everyone says, and even me, a very much not artistic person, can use it. _(Paid)_
+- Uber
+- [Typewise Keyboard](https://apps.apple.com/us/app/typewise-custom-keyboard/id1470215025): Hexagonal keyboard with _much_ better autocorrect than the built-in iOS one. _(Paid)_
+- [CubeTime](https://apps.apple.com/us/app/cubetime/id1600392245): For timing Rubik's cube solves. 
+- [Pleco](https://apps.apple.com/us/app/pleco-chinese-dictionary/id341922306): The uncontested best Chinese dictionary app, both Mandarin and Cantonese.
 
 ## Home server
 
