@@ -2,6 +2,7 @@
 title: "Software I use"
 draft: false
 date: 2025-10-31
+updated: 2025-11-03
 ---
 
 # Software I use
@@ -48,7 +49,7 @@ and I basically never need to present slideshows anymore.
 ### File management
 
 - Dolphin: KDE Plasma's default GUI file manager.
-- [7zip](https://www.7-zip.org/): the world is a weird, weird place.
+- [7zip](https://www.7-zip.org/): maybe the best compression tool in the market.
 - [Calibre](https://calibre-ebook.com/): ebook library manager, but words can't do it justice.
 - [Yazi](https://yazi-rs.github.io/): excellent terminal file manager.
 - [jj (or jujutsu)](https://github.com/jj-vcs/jj): simple but powerful version control system that builds on, and is compatible with, [Git](https://git-scm.com/).
@@ -79,7 +80,9 @@ and I basically never need to present slideshows anymore.
 ### Language servers (LSP) and formatters
 
 - [Harper](https://writewithharper.com/docs/integrations/language-server): Spell checking in LSP form; very fast and feature-filled.
-- [Lua Language Server](https://github.com/LuaLS/lua-language-server): An LSP for Lua. 
+- [Lua Language Server](https://github.com/LuaLS/lua-language-server): LSP for Lua. 
+- [Marksman](https://github.com/artempyanykh/marksman): LSP for Markdown with goto-file and heading symbols
+- [Tinymist](https://github.com/Myriad-Dreamin/tinymist): LSP for Typst. 
 - [Dprint](https://dprint.dev/): A formatter for many files. I use it for Markdown.
 - [Typstyle](https://github.com/typstyle-rs/typstyle): formatter for Typst.
 
@@ -140,10 +143,6 @@ I have greatly reduced it to what I kept installed in my small Windows partition
     - [Proton VPN](https://protonvpn.com/): Among VPNs, designed to be particularly private. I no longer use it too much.
 - YouTube Premium: this is my music streamer of choice. If you're using Spotify, you're _really_ missing out on sound quality. You think you don't have a good enough ear to tell the difference? Think again.
 - [Raindrop.io](https://raindrop.io/): cloud bookmark manager. I feel I underuse this.
-
-<!-- ## iOS -->
-<!---->
-<!-- - ... -->
 
 ## Home server
 
