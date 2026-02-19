@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Raúl E. Taveras&#x27;s Website</title>
+    <link rel="self" type="application/atom+xml" href="https://www.raultaveras.online/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.raultaveras.online"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-02-19T00:00:00+00:00</updated>
+    <id>https://www.raultaveras.online/atom.xml</id>
+    <entry xml:lang="en">
+        <title>A reflection on liturgical prayer</title>
+        <published>2025-11-12T00:00:00+00:00</published>
+        <updated>2025-11-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.raultaveras.online/articles/20251112-reflection-on-bcp/"/>
+        <id>https://www.raultaveras.online/articles/20251112-reflection-on-bcp/</id>
+        
+        <content type="html" xml:base="https://www.raultaveras.online/articles/20251112-reflection-on-bcp/">&lt;p&gt;Last night I was praying compline with my parents,
+and as I led us in prayer,
+it struck me what the Anglican tradition means
+by liturgical prayer “forming” us.&lt;&#x2F;p&gt;
+&lt;p&gt;To give an example,
+one of the concluding prayers of compline reads:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;grant that we may never forget
+that our common life depends upon each other’s toil.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;As we pray this night in and night out,
+we are constantly invited to remember this fact
+and to act upon it in humility and mercy.&lt;&#x2F;p&gt;
+&lt;p&gt;Or another example:
+the “Prayers and Thanksgiving” section of the Book of Common Prayer
+has some prayers for thanksgiving before a meal,
+one of which says:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blessed are you, O Lord God, King of the Universe,
+for you give us food to sustain our lives
+and make our hearts glad &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.episcopalchurch.org&#x2F;wp-content&#x2F;uploads&#x2F;2023&#x2F;06&#x2F;book_of_common_prayer.pdf&quot;&gt;(p. 835)&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;When we pause before a meal to say this,
+in a world where evil often deepens,
+it is an affirmation of the ultimate goodness of life
+and of the God Who provides it.
+For us who have struggled with mental darkness,
+it is, as the song goes,
+“good that we remind ourselves of this.”
+We are created &lt;em&gt;for&lt;&#x2F;em&gt; delight,
+and it’s similarly no coincidence we find food delicious:
+we are in part created for each other as part of the life
+God created for us, and God created us for.&lt;&#x2F;p&gt;
+&lt;p&gt;This is the power of liturgical prayer such as the daily office,
+and I’ve found it a wonderful gift to partake in it.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Recommendations hub</title>
+        <published>2025-10-31T00:00:00+00:00</published>
+        <updated>2025-10-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.raultaveras.online/recommendations/"/>
+        <id>https://www.raultaveras.online/recommendations/</id>
+        
+        <content type="html" xml:base="https://www.raultaveras.online/recommendations/">&lt;p&gt;This is where you will find links to my recommended media and content.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.raultaveras.online&#x2F;recommendations&#x2F;podcasts&#x2F;&quot;&gt;Podcasts I listen to&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.raultaveras.online&#x2F;recommendations&#x2F;software&#x2F;&quot;&gt;Software I use&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Software I use</title>
+        <published>2025-10-31T00:00:00+00:00</published>
+        <updated>2026-02-19T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.raultaveras.online/recommendations/software/"/>
+        <id>https://www.raultaveras.online/recommendations/software/</id>
+        
+        <content type="html" xml:base="https://www.raultaveras.online/recommendations/software/">&lt;h1 id=&quot;software-i-use&quot;&gt;Software I use&lt;&#x2F;h1&gt;
+&lt;p&gt;I keep this page mostly as a reference to myself,
+but I publish it in case anyone finds it useful.
+I’d be happy to write
+about my experiences or workflows with these tools
+if anyone wants me to.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;linux&quot;&gt;Linux&lt;&#x2F;h2&gt;
+&lt;p&gt;I am running &lt;a href=&quot;https:&#x2F;&#x2F;www.raultaveras.online&#x2F;recommendations&#x2F;software&#x2F;get.opensuse.org&#x2F;tumbleweed&#x2F;&quot;&gt;openSuse Tumbleweed&lt;&#x2F;a&gt;
+using the KDE Plasma Desktop Environment.
+I’m testing between X11 and Wayland.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;general&quot;&gt;General&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Konsole: Terminal emulator by KDE&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.nushell.sh&#x2F;&quot;&gt;Nushell&lt;&#x2F;a&gt;: cross-platform shell (works on Windows!) where structured data is first-class.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;obsidian.md&#x2F;&quot;&gt;Obsidian&lt;&#x2F;a&gt;: markdown text editor and ecosystem.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;neovim.io&#x2F;&quot;&gt;Neovim&lt;&#x2F;a&gt; (based on &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;nvim-mini.org&#x2F;MiniMax&#x2F;&quot;&gt;MINIMAX&lt;&#x2F;a&gt;): modal and very extensible text editor for the terminal.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;espanso.org&#x2F;&quot;&gt;Espanso&lt;&#x2F;a&gt;: open-source text expander. Incredibly useful for repeated text and for symbols not easy to type, like the em dash (—). Note its Wayland support is in development.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ajeetdsouza&#x2F;zoxide&quot;&gt;zoxide&lt;&#x2F;a&gt;: an upgrade to &lt;code&gt;cd&lt;&#x2F;code&gt; (change directory) that keeps track of the frequency of your visits to directories and lets you change to them with fuzzy finding.&lt;&#x2F;li&gt;
+&lt;li&gt;less: Unix’s terminal pager &lt;em&gt;par excellence&lt;&#x2F;em&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sharkdp&#x2F;bat&quot;&gt;bat&lt;&#x2F;a&gt;: I mostly use it instead of &lt;code&gt;less&lt;&#x2F;code&gt; since it uses &lt;code&gt;less&lt;&#x2F;code&gt; in the background but colorizes the output.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;typst.app&#x2F;&quot;&gt;Typst&lt;&#x2F;a&gt;: a modern typesetting system. While still in pre-1.0.0 development, it is simpler and ultimately more powerful than LaTeX.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;zellij-org&#x2F;zellij&quot;&gt;Zellij&lt;&#x2F;a&gt;: I didn’t get it until I used it, then I did. Just try it. It will click.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;You may notice I haven’t listed office suite software.
+I don’t use office suites in my personal purposes.
+Where I would use a word processor,
+I use markdown or typst when I need more power.
+Instead of spreadsheets, I use hledger or nushell + json or yaml,
+and I basically never need to present slideshows anymore.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;2&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;I’m interested in &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;wezterm.org&#x2F;index.html&quot;&gt;Wezterm&lt;&#x2F;a&gt;, but I’m done tinkering as of the date of this draft.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 id=&quot;internet&quot;&gt;Internet&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;zen-browser.app&#x2F;&quot;&gt;Zen Browser&lt;&#x2F;a&gt; — flatpak version. What Arc Browser should have been.&lt;&#x2F;li&gt;
+&lt;li&gt;See &lt;a href=&quot;https:&#x2F;&#x2F;www.raultaveras.online&#x2F;recommendations&#x2F;software&#x2F;#online-services&quot;&gt;below&lt;&#x2F;a&gt; for some online services I use.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;file-management&quot;&gt;File management&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dolphin: KDE Plasma’s default GUI file manager.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.7-zip.org&#x2F;&quot;&gt;7zip&lt;&#x2F;a&gt;: maybe the best compression tool in the market.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;yazi-rs.github.io&#x2F;&quot;&gt;Yazi&lt;&#x2F;a&gt;: excellent terminal file manager.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jj-vcs&#x2F;jj&quot;&gt;jj (or jujutsu)&lt;&#x2F;a&gt;: simple but powerful version control system that builds on, and is compatible with, &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;git-scm.com&#x2F;&quot;&gt;Git&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jesseduffield&#x2F;lazygit&quot;&gt;lazygit&lt;&#x2F;a&gt;: terminal user interface (TUI) for Git, for the few occasions when I’m in a Git repository that isn’t also a jj repository.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;restic.net&#x2F;&quot;&gt;restic&lt;&#x2F;a&gt;: incremental back up utility with built-in encryption.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;admin&quot;&gt;Admin&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.zsa.io&#x2F;flash&quot;&gt;ZSA Keymapp&lt;&#x2F;a&gt; + &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.zsa.io&#x2F;oryx-custom-qmk-features&#x2F;&quot;&gt;Custom QMK repo&lt;&#x2F;a&gt;: for flashing firmware onto my Ergodox EZ and ZSA Voyager keyboards.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jtroo&#x2F;kanata&quot;&gt;kanata&lt;&#x2F;a&gt;: Software-level keyboard remapping.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.gnome.org&#x2F;Impression&#x2F;&quot;&gt;Impression&lt;&#x2F;a&gt;: Tool for creating bootable USB drives from &lt;code&gt;.iso&lt;&#x2F;code&gt; files.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;gparted.org&#x2F;&quot;&gt;GParted&lt;&#x2F;a&gt;: The age-old disk partition utility.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fastfetch-cli&#x2F;fastfetch&quot;&gt;Fastfetch&lt;&#x2F;a&gt;: Utility to display system info to the terminal.&lt;&#x2F;li&gt;
+&lt;li&gt;ssh: For connecting to my home server.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tldr-pages&#x2F;tldr&quot;&gt;tldr&lt;&#x2F;a&gt;: Cheatsheet repository for command line utilities.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;gaming&quot;&gt;Gaming&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;store.steampowered.com&#x2F;&quot;&gt;Steam&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;lutris.net&#x2F;&quot;&gt;Lutris&lt;&#x2F;a&gt;: Manager for game installation and execution. Excellent for running Windows games through Proton.&lt;&#x2F;li&gt;
+&lt;li&gt;Battle.net.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;davidotek.github.io&#x2F;protonup-qt&#x2F;&quot;&gt;ProtonUp-Qt&lt;&#x2F;a&gt;: Tool for installing Proton versions. I especially use it to install &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;GloriousEggroll&#x2F;proton-ge-custom&quot;&gt;Proton GE&lt;&#x2F;a&gt; versions on both steam and Lutris.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;media&quot;&gt;Media&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;okular.kde.org&#x2F;&quot;&gt;Okular&lt;&#x2F;a&gt;: PDF reader by KDE. Also available for Windows! Bonus: can render Markdown and epub.&lt;&#x2F;li&gt;
+&lt;li&gt;VLC: Formerly known as the video player &lt;em&gt;par excellence&lt;&#x2F;em&gt;, it’s still fantastic, and came preinstalled with openSUSE.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;language-servers-lsp-and-formatters&quot;&gt;Language servers (LSP) and formatters&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;writewithharper.com&#x2F;docs&#x2F;integrations&#x2F;language-server&quot;&gt;Harper&lt;&#x2F;a&gt;: Spell checking in LSP form; very fast and feature-filled.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;LuaLS&#x2F;lua-language-server&quot;&gt;Lua Language Server&lt;&#x2F;a&gt;: LSP for Lua.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;artempyanykh&#x2F;marksman&quot;&gt;Marksman&lt;&#x2F;a&gt;: LSP for Markdown with goto-file and heading symbols&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Myriad-Dreamin&#x2F;tinymist&quot;&gt;Tinymist&lt;&#x2F;a&gt;: LSP for Typst.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;dprint.dev&#x2F;&quot;&gt;Dprint&lt;&#x2F;a&gt;: A formatter for many files. I use it for Markdown.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;typstyle-rs&#x2F;typstyle&quot;&gt;Typstyle&lt;&#x2F;a&gt;: formatter for Typst.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;other&quot;&gt;Other&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bradrn&#x2F;brassica&quot;&gt;Brassica Sound Changer&lt;&#x2F;a&gt;: My favourite sound change applier for my constructed languages.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hledger.org&#x2F;&quot;&gt;Hledger&lt;&#x2F;a&gt;: command line utility for accounting using just plain text files.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;starship.rs&#x2F;&quot;&gt;Starship&lt;&#x2F;a&gt;: customizable, cross-shell terminal prompt.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;windows&quot;&gt;Windows&lt;&#x2F;h2&gt;
+&lt;p&gt;Since I switched to Linux,
+and this page is for software I currently used,
+I have greatly reduced it to what I kept installed in my small Windows partition.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;general-1&quot;&gt;General&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.flowlauncher.com&#x2F;&quot;&gt;Flow Launcher&lt;&#x2F;a&gt; (with Everything search): Launcher for Windows. My first or second install every single time. It makes the start menu basically obsolete.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.stardock.com&#x2F;products&#x2F;start11&#x2F;&quot;&gt;Stardock Start11&lt;&#x2F;a&gt;: Excellent taskbar and start menu customization. &lt;em&gt;(Paid)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Neovim (see Linux section)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;learn.microsoft.com&#x2F;en-us&#x2F;windows&#x2F;powertoys&#x2F;&quot;&gt;Microsoft Powertoys&lt;&#x2F;a&gt;: An amazing set of tools. If you’re anything above a completely basic user, you should look into this. It will likely significantly improve your quality of life while using your PC.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;terminal&quot;&gt;Windows Terminal&lt;&#x2F;a&gt;: Generally very good and customizable terminal emulator.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;internet-1&quot;&gt;Internet&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Zen Browser&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.internetdownloadmanager.com&#x2F;&quot;&gt;Internet Download Manager&lt;&#x2F;a&gt;: The fast and famous download manager. &lt;em&gt;(Paid)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;file-management-1&quot;&gt;File management&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.gpsoft.com.au&#x2F;&quot;&gt;Directory Opus 13&lt;&#x2F;a&gt;: One of, if not &lt;em&gt;the&lt;&#x2F;em&gt;, most powerful file managers on Windows. &lt;em&gt;(Paid)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;7zip&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.codesector.com&#x2F;teracopy&quot;&gt;Teracopy&lt;&#x2F;a&gt;: Utility that improves moving and copying. It’s much, much, much faster than Windows Explorer, and it’s also safer since it implements file integrity validation.&lt;&#x2F;li&gt;
+&lt;li&gt;Yazi&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;admin-1&quot;&gt;Admin&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;geekuninstaller.com&#x2F;&quot;&gt;Geek Uninstaller&lt;&#x2F;a&gt;: Very powerful and portable uninstaller utility. I don’t keep this installed; rather I keep it on a USB flash drive.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.jam-software.com&#x2F;treesize&quot;&gt;Treesize Free&lt;&#x2F;a&gt;: Disk usage analyzer; lets you see how much storage is used by each directory and file, recursively.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x-mousebuttoncontrol.com&#x2F;&quot;&gt;Xmouse button control&lt;&#x2F;a&gt;: Utility to customize how mouse inputs get interpreted. I use it whenever I’m not using a Razer mouse.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.cpuid.com&#x2F;softwares&#x2F;cpu-z.html&quot;&gt;CPUID CPU-Z&lt;&#x2F;a&gt;: Display information about your hardware. Particularly useful since it includes info otherwise scattered.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;winaerotweaker.com&#x2F;&quot;&gt;WinaeroTweaker&lt;&#x2F;a&gt;: Powerful tool to turn Windows features on and off and customize Windows.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.zsa.io&#x2F;flash&quot;&gt;ZSA Keymapp&lt;&#x2F;a&gt; + &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.zsa.io&#x2F;oryx-custom-qmk-features&#x2F;&quot;&gt;Custom QMK repo&lt;&#x2F;a&gt;: for flashing firmware onto my Ergodox EZ and ZSA Voyager keyboards.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.razer.com&#x2F;synapse-4&quot;&gt;Razer Synapse&lt;&#x2F;a&gt;: Powerful software to customize Razer hardware; in my case, it’s just the mouse.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.bleachbit.org&#x2F;&quot;&gt;BleachBit&lt;&#x2F;a&gt;: A very powerful disk cleaning utility.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;media-1&quot;&gt;Media&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.sumatrapdfreader.org&#x2F;free-pdf-reader&quot;&gt;SumatraPDF&lt;&#x2F;a&gt;: Lightweight PDF reader.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;online-services&quot;&gt;Online services&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Proton suite&lt;&#x2F;strong&gt;: Proton AG is a Swiss technology company that offers services focused on (and known for) privacy through encryption and relatively low data collection, particularly when compared with the Google and Microsoft services it competes with.
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;proton.me&#x2F;mail&quot;&gt;Proton Mail&lt;&#x2F;a&gt;: My main email provider. I especially like it integrates with Proton Pass to provide &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;proton.me&#x2F;pass&#x2F;aliases&quot;&gt;hide-my-email aliases&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;proton.me&#x2F;drive&quot;&gt;Proton Drive&lt;&#x2F;a&gt;: Cloud file storage, like Google Drive, Dropbox, or OneDrive.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;proton.me&#x2F;pass&quot;&gt;Proton Pass&lt;&#x2F;a&gt;: Password manager.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;proton.me&#x2F;calendar&quot;&gt;Proton Calendar&lt;&#x2F;a&gt;: A cloud calendar manager. I don’t particularly need its features or its (limited) integration with other Proton services, but I also don’t need something particularly powerful, so might as well.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;protonvpn.com&#x2F;&quot;&gt;Proton VPN&lt;&#x2F;a&gt;: Among VPNs, designed to be particularly private. I no longer use it too much.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;YouTube Premium &#x2F; Music: this is my music streamer of choice. If you’re using Spotify, you’re &lt;em&gt;really&lt;&#x2F;em&gt; missing out on sound quality. You think you don’t have a good enough ear to tell the difference? Think again.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;raindrop.io&#x2F;&quot;&gt;Raindrop.io&lt;&#x2F;a&gt;: cloud bookmark manager. I feel I underuse this.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;&quot;&gt;GitHub&lt;&#x2F;a&gt;: Probably the most popular Git forge.&lt;&#x2F;li&gt;
+&lt;li&gt;[Inoreader]: Cloud RSS aggregator and reader.&lt;&#x2F;li&gt;
+&lt;li&gt;[Zotero]: Open-source bibliography &#x2F; reference manager with proprietary cloud sync.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tailscale.com&#x2F;&quot;&gt;Tailscale&lt;&#x2F;a&gt;: Black magic VPN-like thing. I use it to connect to my home server outside of home.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;ios-ipados&quot;&gt;iOS &#x2F; iPadOS&lt;&#x2F;h2&gt;
+&lt;p&gt;I’ll skip the tools that merely enable compatibility with services I use elsewhere too.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Safari: Pretty good browser. We don’t need to talk about how Apple kneecaps all other browsers.&lt;&#x2F;li&gt;
+&lt;li&gt;Apple Photos: I don’t need anything fancier.&lt;&#x2F;li&gt;
+&lt;li&gt;Google Maps.&lt;&#x2F;li&gt;
+&lt;li&gt;Apple Voice Memos.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;la-terminal-ssh-client&#x2F;id1629902861&quot;&gt;La Terminal&lt;&#x2F;a&gt;: SSH client terminal. I use it to connect to my home server.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;project-indigo&#x2F;id6742591546&quot;&gt;Project Indigo&lt;&#x2F;a&gt;: From the guys behind the Google Pixel camera, apparently best in class image processing to take full advantage of the phone’s capabilities. It’s definitely wasted on me, but I’ll take what I can get.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;guitartuna-tune-play-guitar&#x2F;id527588389&quot;&gt;GuitarTuna&lt;&#x2F;a&gt;: Guitar tuner.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;bass-tuner-bt1&#x2F;id1433908656&quot;&gt;Bass Tuner B1&lt;&#x2F;a&gt;: Bass guitar tuner.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;bookplayer&#x2F;id1138219998&quot;&gt;BookPlayer&lt;&#x2F;a&gt;: Audiobook player.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;bible&#x2F;id282935706&quot;&gt;YouVersion Bible&lt;&#x2F;a&gt;: Extremely feature- and Bible-packed Bible app.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;es&#x2F;app&#x2F;noteful-notes-pdf-markup&#x2F;id1587904334&quot;&gt;Noteful&lt;&#x2F;a&gt;: My favourite Apple Pencil note-taking app. It’s essentially a PDF annotator.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;es&#x2F;app&#x2F;pdf-viewer&#x2F;id1120099014&quot;&gt;PDF Viewer&lt;&#x2F;a&gt;: Very feature-packed PDF reader.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;forward-day-by-day&#x2F;id561455965&quot;&gt;Day by Day by Forward Movement&lt;&#x2F;a&gt;: App version of (a lot of) the Episcopal Book of Common Prayer, with surprising number of features, including Spanish versions of the Daily Office and recordings of the English version.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;adguard.com&#x2F;en&#x2F;adguard-ios&#x2F;overview.html&quot;&gt;Adguard&lt;&#x2F;a&gt;: Good ad blocker. Used to be &lt;em&gt;the&lt;&#x2F;em&gt; best; don’t know if that’s true anymore.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;quickscan-document-scanner&#x2F;id1493336495&quot;&gt;QuickScan&lt;&#x2F;a&gt;: Maybe the best phone scanner app? It can also automatically export to paperless-ngx.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;podcasts.apple.com&#x2F;us&#x2F;new&quot;&gt;Apple Podcasts&lt;&#x2F;a&gt;: I switched to this from Pocket Casts because it has better integration with iOS and Carplay.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;procreate&#x2F;id425073498&quot;&gt;Procreate&lt;&#x2F;a&gt;: It is exactly as good as everyone says, and even me, a very much not artistic person, can use it. &lt;em&gt;(Paid)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Uber&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;typewise-custom-keyboard&#x2F;id1470215025&quot;&gt;Typewise Keyboard&lt;&#x2F;a&gt;: Hexagonal keyboard with &lt;em&gt;much&lt;&#x2F;em&gt; better autocorrect than the built-in iOS one. &lt;em&gt;(Paid)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;cubetime&#x2F;id1600392245&quot;&gt;CubeTime&lt;&#x2F;a&gt;: For timing Rubik’s cube solves.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;pleco-chinese-dictionary&#x2F;id341922306&quot;&gt;Pleco&lt;&#x2F;a&gt;: The uncontested best Chinese dictionary app, both Mandarin and Cantonese.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;home-server&quot;&gt;Home server&lt;&#x2F;h2&gt;
+&lt;p&gt;I self-host a few services for privacy or just convenience.
+It runs on &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;ubuntu.com&#x2F;download&#x2F;desktop&quot;&gt;Ubuntu 24.04 LTS&lt;&#x2F;a&gt;.
+Since I am bad at networking,
+I aim to touch it as little as possible.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;about.gitea.com&#x2F;products&#x2F;gitea&#x2F;&quot;&gt;Gitea&lt;&#x2F;a&gt;: a git forge. I use it in addition to, not instead of, GitHub, for my most sensitive repositories.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;9001&#x2F;copyparty&quot;&gt;Copyparty&lt;&#x2F;a&gt;: a file server.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;crocodilestick&#x2F;Calibre-Web-Automated&quot;&gt;Calibre-web-automated&lt;&#x2F;a&gt;: a service to access my Calibre library stored on my home server. I’ve replaced all my Calibre usage with this.&lt;&#x2F;li&gt;
+&lt;li&gt;Vim. I can’t bother with porting my complete neovim config, so this is good enough.&lt;&#x2F;li&gt;
+&lt;li&gt;While I no longer host them, I experimented with &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;docs.paperless-ngx.com&#x2F;&quot;&gt;paperless-ngx&lt;&#x2F;a&gt; and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;adguard.com&#x2F;en&#x2F;adguard-home&#x2F;overview.html&quot;&gt;Adguard Home&lt;&#x2F;a&gt;. I 100% recommend them and would use them again, but my family aren’t very big fans…&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>WhatsApp Channels: The evolution &amp; devolution of communication</title>
+        <published>2023-10-30T00:00:00+00:00</published>
+        <updated>2023-10-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.raultaveras.online/articles/20231030-ws-channels-rss/"/>
+        <id>https://www.raultaveras.online/articles/20231030-ws-channels-rss/</id>
+        
+        <content type="html" xml:base="https://www.raultaveras.online/articles/20231030-ws-channels-rss/">&lt;p&gt;WhatsApp rolled out “channels” worldwide on &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.whatsapp.com&#x2F;whatsapp-channels-are-going-global&quot;&gt;September 13, 2023&lt;&#x2F;a&gt;,
+following the popularity of a similar feature in Telegram &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;telegram.org&#x2F;blog&#x2F;channels&quot;&gt;introduced 7 years prior&lt;&#x2F;a&gt;.
+Through channels, users can subscribe to one-sided chat feeds and
+receive updates from individuals or organizations directly to their devices.
+While some see this as a way to get us closer to the information we want,
+I argue channels make reliable information harder to find and verify,
+compromising transparency.
+Additionally, I believe they are a merely a symptom of the declining quality of the internet
+and represent a redundant reinvention of technology available
+and perfectly functional for the past 25 years.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;how-channels-are-bad-for-information-transparency&quot;&gt;How channels are bad for information transparency&lt;&#x2F;h1&gt;
+&lt;p&gt;Channels, as explained before, are essentially chat feeds
+that allow the owner to send messages one way
+without receiving a barrage of disscussion in return.
+As chat feeds, they present a number of barriers to information transparency.&lt;&#x2F;p&gt;
+&lt;p&gt;First, they are limited to users who have subscribed to them
+within specific messaging services.
+Because of this,
+old information can only be retrieved through the user interfaces
+and search engines these companies provide,
+which are not designed for retrieval past anything but a couple of months.&lt;&#x2F;p&gt;
+&lt;p&gt;These limitations mean the original information is vulnerable to being irretrievably lost.
+If the companies that provide these services go under or shut them down,
+the original information effectively disappears from the face of the Earth.
+On the other hand, governments can and sometimes do ban access to these systems,
+and companies themselves are perfectly capable of banning individual users.
+In these scenarios, the information still exists in servers somewhere,
+but it’s as good as nonexistent for the affected people.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;if-channels-are-so-bad-why-are-they-so-popular&quot;&gt;If channels are so bad, why are they so popular?&lt;&#x2F;h1&gt;
+&lt;p&gt;In the information age, we want to receive direct information
+from those whose content we find valuable.
+We find ourselves migrating to channels for our information
+not out of preference but out of necessity,
+a response to the alarming decline in the quality of information readily available online,
+a phenomenon colloquially termed “ensh*ttification.”&lt;&#x2F;p&gt;
+&lt;p&gt;It used to be, back in the 2000s, when Google rose to fame,
+that if a user typed a search into the box and hit enter,
+they’d find just what they were looking for.
+Tens of thousands of varied,
+often independent results would come up,
+written by real people from all over the web.
+Now, many people find navigating the web so frustrating &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20230605171506&#x2F;https:&#x2F;&#x2F;www.pcmag.com&#x2F;news&#x2F;when-will-chatgpt-replace-search-engines-maybe-sooner-than-you-think&quot;&gt;they stopped doing it at all&lt;&#x2F;a&gt;,
+instead using tools like ChatGPT to find answers to their questions.&lt;&#x2F;p&gt;
+&lt;p&gt;What changed?&lt;&#x2F;p&gt;
+&lt;p&gt;First, websites realized that Google and other search engines could be gamed.
+They could write articles in ways that would give them a much higher chance
+of appearing in the first few results.
+This practice is called search engine optimization (SEO).
+The importance of appearing first is
+that most users click one of the first few results on their searches,
+and almost none go past the first page.
+Corporations therefore had much to gain from driving clicks to their websites,
+and they had resources to invest into SEO,
+leading to content design that favors clicks instead of information quality.
+There is even &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20231002123158&#x2F;https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;google-antitrust-lawsuit-search-results&#x2F;&quot;&gt;evidence Google changes search terms&lt;&#x2F;a&gt;
+without user consent, in order to place paying results up in the list.&lt;&#x2F;p&gt;
+&lt;p&gt;The result? The same couple of websites show up at the top of every results page,
+filled with formulaic articles that may or may not contain any useful information.&lt;&#x2F;p&gt;
+&lt;p&gt;Furthermore, since the advent of AI in the 2020s,
+sites are employing AI to write a large number of their articles with little editorial oversight.
+These superficial, content-lite articles often don’t even contain the answers people seek,
+making finding actual information more like looking for a needle in a haystack.&lt;&#x2F;p&gt;
+&lt;p&gt;This isn’t all. To maximize revenue, corporations also sell ads.
+As with search results, the purpose of ads is to be clicked,
+and websites employ every conceivable tactic to elicit clicks.
+In-text and popup ads transformed the simple old internet websites into virtual minefields,
+disrupting the user experience even more.&lt;&#x2F;p&gt;
+&lt;p&gt;Therefore, channels emerge in a context where information is harder to come by
+as individual freedom of navigation is curtailed by corporate practices.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;how-these-issues-have-been-solved-for-24-and-a-half-years&quot;&gt;How these issues have been solved for 24 and a half years&lt;&#x2F;h1&gt;
+&lt;p&gt;Channels are a flawed attempt to solve the modern internet’s greatest problem.
+However, they do nothing more than reinvent the wheel,
+rediscovering a service that has existed since 1999.&lt;&#x2F;p&gt;
+&lt;p&gt;Enter RSS (standing for RDF Site Summary or Really Simple Syndication),
+a simple system for users to follow their favorite sites
+and be automatically notified when they post something new.&lt;&#x2F;p&gt;
+&lt;p&gt;Here’s how it works. Users can employ their reader of choice to subscribe to a website’s feed.
+The reader will then download the site’s contents and link to the source posts.
+When there’s a new post, the reader automatically updates.
+Many websites directed at a broad audience, such as newspapers and blogs, have RSS feeds.
+Even YouTube channels are themselves RSS feeds.&lt;&#x2F;p&gt;
+&lt;p&gt;In essence, RSS feeds fulfill the roles that individuals expect from WhatsApp and Telegram channels.
+They allow users to follow individuals and organizations and receive updates directly from the source.
+They boast several advantages over channels, however:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;RSS feeds point straight to the source,
+which means there is no risk of information loss even if the reader is discontinued.
+It also means corporations cannot manipulate the information sent by feeds, even if they wanted to.&lt;&#x2F;li&gt;
+&lt;li&gt;Since the user isn’t beholden to any single program,
+they are free to tailor their experience to match their unique needs and preferences,
+including those with special visual or auditory needs.&lt;&#x2F;li&gt;
+&lt;li&gt;RSS feeds further allow the user to organize the influx of data in ways that fit them,
+allowing them to curate them by folders, groups, and tags,
+as well as saving their favorite articles.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Some good RSS readers include &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;feedly.com&quot;&gt;Feedly&lt;&#x2F;a&gt; for the web and mobile
+and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.rssowl.org&#x2F;&quot;&gt;RSSOwl&lt;&#x2F;a&gt; for Windows, Mac and Linux (which I happen to use).&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h1&gt;
+&lt;p&gt;WhatsApp and Telegram channels exist
+because the internet has become a much more hostile place to find information,
+as websites are flooded with premade, AI-written articles
+filled to the brim with ads, popups, and subscription requests.
+They attempt to solve this
+by providing a direct means for one-way communication,
+but they do so in a way that leaves information vulnerable to irretrievable loss and manipulation.
+The creators of RSS had already solved this problem in 1999,
+even before the advent of search engines.
+In light of the challenges posed by current internet practices,
+it may be time to consider adopting this technology once more.&lt;&#x2F;p&gt;
+&lt;p&gt;Feel free to follow my RSS feed with your favorite reader
+at &lt;a rel=&quot;external&quot; href=&quot;http:&#x2F;&#x2F;www.raultaveras.online&#x2F;atom.xml&quot;&gt;http:&#x2F;&#x2F;www.raultaveras.online&#x2F;atom.xml&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;a-good-video-that-addresses-the-topic-of-search-engines&quot;&gt;A good video that addresses the topic of search engines:&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Enrico Tartarotti. (2022, November 25). What Happened to Google Search? [YouTube]. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=48AOOynnmqU&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Podcasts I Listen To</title>
+        <published>2023-10-20T00:46:04+01:00</published>
+        <updated>2025-05-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.raultaveras.online/recommendations/podcasts/"/>
+        <id>https://www.raultaveras.online/recommendations/podcasts/</id>
+        
+        <content type="html" xml:base="https://www.raultaveras.online/recommendations/podcasts/">&lt;p&gt;For reference, I currently use the iOS app
+&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;apps.apple.com&#x2F;au&#x2F;app&#x2F;pocket-casts-podcast-player&#x2F;id414834813&quot;&gt;Pocket Casts&lt;&#x2F;a&gt;
+to listen to podcasts.
+If you use Android, I recommend the app
+&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.bambuna.podcastaddict&amp;amp;hl=en&quot;&gt;Podcast Addict&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;linguistics-and-language&quot;&gt;Linguistics and Language&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A Way with Words&lt;&#x2F;li&gt;
+&lt;li&gt;Conlangery – For Constructing Languages&lt;&#x2F;li&gt;
+&lt;li&gt;en clair: forensic linguistics, literary detection, language mysteries, and more&lt;&#x2F;li&gt;
+&lt;li&gt;Lexicon Valley&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;lingthusiasm.com&#x2F;&quot;&gt;Lingthusiasm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;New Books in Language&lt;&#x2F;li&gt;
+&lt;li&gt;That’s What They Say&lt;&#x2F;li&gt;
+&lt;li&gt;The Allusionist&lt;&#x2F;li&gt;
+&lt;li&gt;The Endless Knot&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;historyofenglishpodcast.com&#x2F;&quot;&gt;The History of English&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Words for Granted&lt;&#x2F;li&gt;
+&lt;li&gt;Wordy Wordpecker&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;history&quot;&gt;History&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dan Carlin’s Hardcore History&lt;&#x2F;li&gt;
+&lt;li&gt;Footnoting History&lt;&#x2F;li&gt;
+&lt;li&gt;Stuff You Missed in History Class&lt;&#x2F;li&gt;
+&lt;li&gt;The History of Byzantium Podcast - A Successor to the History of Rome.&lt;&#x2F;li&gt;
+&lt;li&gt;The History of China&lt;&#x2F;li&gt;
+&lt;li&gt;The History of Islam&lt;&#x2F;li&gt;
+&lt;li&gt;The History of Rome Podcast - The OG History Podcast.
+by the same guy who made The History of Rome.&lt;&#x2F;li&gt;
+&lt;li&gt;The History of the Papacy Podcast&lt;&#x2F;li&gt;
+&lt;li&gt;The Revolutions Podcast - A podcast about world revolutions&lt;&#x2F;li&gt;
+&lt;li&gt;Wrath of the Khans Series by Dan Carlin&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;design&quot;&gt;Design&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;99% Invisible - The Best on Design in all senses:
+Urban, space, interior, graphic, transit, systems, sound,
+and whatever else you can think of. Probably more.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;general-knowledge&quot;&gt;General Knowledge&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Every Little Thing&lt;&#x2F;li&gt;
+&lt;li&gt;Extremities&lt;&#x2F;li&gt;
+&lt;li&gt;Freakonomics: A podcast about economics and related things (hint: everything)&lt;&#x2F;li&gt;
+&lt;li&gt;Inner Cosmos with David Eagleman — An excellent psychology and neurology podcast.&lt;&#x2F;li&gt;
+&lt;li&gt;Tell Me Something I Don’t Know
+by brilliant economist and communicator Stephen Dubner.
+This podcast is for everyone who wants to build a better society.&lt;&#x2F;li&gt;
+&lt;li&gt;Freakonomics MD: A spin-off of Freakonomics focusing on medical issues.&lt;&#x2F;li&gt;
+&lt;li&gt;People I (Mostly) Admire&lt;&#x2F;li&gt;
+&lt;li&gt;Stuff You Should Know&lt;&#x2F;li&gt;
+&lt;li&gt;Surprisingly Awesome&lt;&#x2F;li&gt;
+&lt;li&gt;The Neurospace Podcast - Made by my very knowledgable and passionate neurologist&#x2F;psychologist friend, Camila Hasbún.&lt;&#x2F;li&gt;
+&lt;li&gt;Sudhir Breaks the Internet&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;mathematics&quot;&gt;Mathematics&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;My Favorite Theorem&lt;&#x2F;li&gt;
+&lt;li&gt;The Numberphile Podcast&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;christian-sermons&quot;&gt;Christian Sermons&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;John Piper’s Sermons (Desiring God)&lt;&#x2F;li&gt;
+&lt;li&gt;Renova2 - Made by my two dear and extremely talented friends Laura and Jason.
+Now archived.&lt;&#x2F;li&gt;
+&lt;li&gt;Exploring my Strange Bible&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bible-study-and-theology&quot;&gt;Bible Study and Theology&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bibleproject.com&#x2F;podcasts&#x2F;the-bible-project-podcast&#x2F;&quot;&gt;BibleProject Podcast&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;onscript.study&#x2F;&quot;&gt;OnScript&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;podcasts.apple.com&#x2F;us&#x2F;podcast&#x2F;working-for-the-word-a-bible-translation-podcast&#x2F;id1494281053&quot;&gt;Working for the Word&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;fiction&quot;&gt;Fiction&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Among the Stars and Bones&lt;&#x2F;li&gt;
+&lt;li&gt;bomBARDed - A Musical Dungeons and Dragons Podcast&lt;&#x2F;li&gt;
+&lt;li&gt;Girl in Space - My favorite fictional podcast.&lt;&#x2F;li&gt;
+&lt;li&gt;Passenger List&lt;&#x2F;li&gt;
+&lt;li&gt;Spout Lore - A Dungeon World Podcast&lt;&#x2F;li&gt;
+&lt;li&gt;The Adventure Zone - An entertainment empire that started with Dungeons and Dragons&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
