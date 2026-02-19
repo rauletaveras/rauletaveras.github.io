@@ -2,7 +2,7 @@
 title: "Software I use"
 draft: false
 date: 2025-10-31
-updated: 2025-11-03
+updated: 2026-02-19
 ---
 
 # Software I use
@@ -50,7 +50,6 @@ and I basically never need to present slideshows anymore.
 
 - Dolphin: KDE Plasma's default GUI file manager.
 - [7zip](https://www.7-zip.org/): maybe the best compression tool in the market.
-- [Calibre](https://calibre-ebook.com/): ebook library manager, but words can't do it justice.
 - [Yazi](https://yazi-rs.github.io/): excellent terminal file manager.
 - [jj (or jujutsu)](https://github.com/jj-vcs/jj): simple but powerful version control system that builds on, and is compatible with, [Git](https://git-scm.com/).
 - [lazygit](https://github.com/jesseduffield/lazygit): terminal user interface (TUI) for Git, for the few occasions when I'm in a Git repository that isn't also a jj repository.
@@ -59,6 +58,7 @@ and I basically never need to present slideshows anymore.
 ### Admin
 
 - [ZSA Keymapp](https://www.zsa.io/flash) + [Custom QMK repo](https://blog.zsa.io/oryx-custom-qmk-features/): for flashing firmware onto my Ergodox EZ and ZSA Voyager keyboards.
+- [kanata](https://github.com/jtroo/kanata): Software-level keyboard remapping.
 - [Impression](https://apps.gnome.org/Impression/): Tool for creating bootable USB drives from `.iso` files.
 - [GParted](https://gparted.org/): The age-old disk partition utility.
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch): Utility to display system info to the terminal.
@@ -70,6 +70,7 @@ and I basically never need to present slideshows anymore.
 - [Steam](https://store.steampowered.com/).
 - [Lutris](https://lutris.net/): Manager for game installation and execution. Excellent for running Windows games through Proton.
 - Battle.net.
+- [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/): Tool for installing Proton versions. I especially use it to install [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom) versions on both steam and Lutris.
 
 ### Media
 
@@ -166,7 +167,7 @@ I'll skip the tools that merely enable compatibility with services I use elsewhe
 - [Day by Day by Forward Movement](https://apps.apple.com/us/app/forward-day-by-day/id561455965): App version of (a lot of) the Episcopal Book of Common Prayer, with surprising number of features, including Spanish versions of the Daily Office and recordings of the English version.
 - [Adguard](https://adguard.com/en/adguard-ios/overview.html): Good ad blocker. Used to be _the_ best; don't know if that's true anymore.
 - [QuickScan](https://apps.apple.com/us/app/quickscan-document-scanner/id1493336495): Maybe the best phone scanner app? It can also automatically export to paperless-ngx.
-- [Pocket Casts](https://apps.apple.com/us/app/pocket-casts-podcast-player/id414834813): Though I miss Android's [Podcast Addict](https://podcastaddict.com/), this does the job fine.
+- [Apple Podcasts](https://podcasts.apple.com/us/new): I switched to this from Pocket Casts because it has better integration with iOS and Carplay.
 - [Procreate](https://apps.apple.com/us/app/procreate/id425073498): It is exactly as good as everyone says, and even me, a very much not artistic person, can use it. _(Paid)_
 - Uber
 - [Typewise Keyboard](https://apps.apple.com/us/app/typewise-custom-keyboard/id1470215025): Hexagonal keyboard with _much_ better autocorrect than the built-in iOS one. _(Paid)_
@@ -182,6 +183,6 @@ I aim to touch it as little as possible.
 
 - [Gitea](https://about.gitea.com/products/gitea/): a git forge. I use it in addition to, not instead of, GitHub, for my most sensitive repositories.
 - [Copyparty](https://github.com/9001/copyparty): a file server.
-- [Calibre-web-automated](https://github.com/crocodilestick/Calibre-Web-Automated): a service to access my Calibre library stored on my home server.
+- [Calibre-web-automated](https://github.com/crocodilestick/Calibre-Web-Automated): a service to access my Calibre library stored on my home server. I've replaced all my Calibre usage with this.
 - Vim. I can't bother with porting my complete neovim config, so this is good enough.
 - While I no longer host them, I experimented with [paperless-ngx](https://docs.paperless-ngx.com/) and [Adguard Home](https://adguard.com/en/adguard-home/overview.html). I 100% recommend them and would use them again, but my family aren't very big fans…
