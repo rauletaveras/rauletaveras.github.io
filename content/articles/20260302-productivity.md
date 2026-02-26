@@ -50,7 +50,7 @@ This preparation makes future archiving much easier.
 The second is keeping a very small stack of sticky notes on the inside cover
 so I can jot down things I need to give out quickly.
 
-![Notebook cover](2026-03-02NotebookCover.jpg)
+![Notebook cover](/2026-03-02NotebookCover.jpg)
 
 As most bullet journals, mine starts with a two-page spread reserved for an **index**.
 The Leuchtturm1917 has a comfortable pre-made spread just for this.
