@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Raúl E. Taveras&#x27;s Website - articles</title>
+    <link rel="self" type="application/atom+xml" href="https://www.raultaveras.online/tags/articles/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.raultaveras.online"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+    <id>https://www.raultaveras.online/tags/articles/atom.xml</id>
+    <entry xml:lang="en">
+        <title>My productivity system</title>
+        <published>2026-03-02T00:00:00+00:00</published>
+        <updated>2026-03-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.raultaveras.online/articles/20260302-productivity/"/>
+        <id>https://www.raultaveras.online/articles/20260302-productivity/</id>
+        
+        <content type="html" xml:base="https://www.raultaveras.online/articles/20260302-productivity/">&lt;h1 id=&quot;my-productivity-system&quot;&gt;My productivity system&lt;&#x2F;h1&gt;
+&lt;p&gt;A few days ago, at the start of work,
+I was reviewing my journal and talking with a dear coworker about it
+and what made it so significant for me.
+It made me think that I’ve been using my current system consistently for long enough to be able to write about it and share what I think about it more publicly.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;method&quot;&gt;Method&lt;&#x2F;h2&gt;
+&lt;p&gt;I only use the task management system I’ll write about for personal matters.
+For work, the system is quite different and particular enough to our circumstances
+I don’t wanna write about it.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;&#x2F;h3&gt;
+&lt;p&gt;These are the tools I use:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A physical notebook. In my case it’s a Leuchtturm 1917 in a notebook cover. I write in it with my Pilot Vanishing Point.&lt;&#x2F;li&gt;
+&lt;li&gt;My trusty handbag. As an autistic person, having it consistently stocked and literally always with me is a load-bearing part of the system. In my case it’s a “Great Sport (R) Lenny Lan Design” or whatever.&lt;&#x2F;li&gt;
+&lt;li&gt;Proton Calendar: Web version for my PC, and app version on my phone and iPad.&lt;&#x2F;li&gt;
+&lt;li&gt;Apple Clock app&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bullet-journal&quot;&gt;Bullet Journal&lt;&#x2F;h3&gt;
+&lt;p&gt;My main system is based on the “Bullet Journal Method”,
+with a dash of the “Getting Things Done” system thrown in (see [[#References]]).&lt;&#x2F;p&gt;
+&lt;p&gt;My notebook is the bullet journal in question.
+Many bullet journalers have elaborate and beautiful decorations and layouts and tables throughout.
+I have no artistic talent whatsoever,
+so my pages are utilitarian and, essentially, plaintext.
+I usually don’t even use tables.&lt;&#x2F;p&gt;
+&lt;p&gt;For the very start, I picked up a couple neat tricks from a YouTube video.
+The first is, on the cover of the notebook, I have three labels:
+one with my name,
+one with the date I started the notebook,
+and one for the date when i finish using it.
+This preparation makes future archiving much easier.
+The second is keeping a very small stack of sticky notes on the inside cover
+so I can jot down things I need to give out quickly.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;2026-03-02NotebookCover.jpg&quot; alt=&quot;Notebook cover&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;As most bullet journals, mine starts with a two-page spread reserved for an &lt;strong&gt;index&lt;&#x2F;strong&gt;.
+The Leuchtturm1917 has a comfortable pre-made spread just for this.
+Following this, I have one page reserved for the future log, but I find I’m barely using it.&lt;&#x2F;p&gt;
+&lt;p&gt;The first concrete sections are my &lt;strong&gt;monthly logs&lt;&#x2F;strong&gt;.
+As in the BuJo book, these are two-page spreads:
+the left page is a calendar view, with one day per line.
+The right page is a task view, where I write tasks for the current month
+carried over from the previous month or from the future log.
+It so happens that my pages have 28 lines, not 31,
+so I nibble a few lines from the right page to house the overflow days.
+I usually don’t have a whole page’s worth of tasks in the monthly log anyways.&lt;&#x2F;p&gt;
+&lt;p&gt;In the calendar view, I’ve liked following Carroll’s own stated practice of writing it retrospectively.
+At the end of each day I write one or at most a couple of important things that happened (past tense) that day.
+The descriptions have to be concise since I only have one line to fit them.
+If I find it useful, I may draw a smiley or frowney face.
+It makes it so I can look back at my month and actually remember moments worth remembering.&lt;&#x2F;p&gt;
+&lt;p&gt;Moving on to the meat of the system: the &lt;strong&gt;daily logs&lt;&#x2F;strong&gt;.
+I keep it dead simple.
+They are nothing more than rapid logging as described in the book:
+a heading for the date
+and short descriptions of things worth moving out from my brain,
+written as they occur to me.
+I don’t dedicate whole pages to each day and just leave a blank line
+between last day’s item and today’s heading.
+I don’t write upcoming days ahead of time.
+Everything is written in today’s log and if it needs moving to tomorrow,
+I move it when I prepare tomorrow’s log.
+If it needs scheduling for a day beyond that,
+I write rewrite it in the monthly log or the future log
+when I do the end-of-day cleanup.&lt;&#x2F;p&gt;
+&lt;p&gt;As to the contents, in my case, it’s mostly tasks.
+I occasionally write about notable events or thoughts if I find them important enough,
+and I write FYI’s (dashed items) even more rarely.
+Those items usually naturally belong somewhere that isn’t my journal.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;complementary-spreads&quot;&gt;Complementary spreads&lt;&#x2F;h4&gt;
+&lt;p&gt;Those are the core of the system, so now we can talk about the complementary pages.
+This February 2026 I started an &lt;strong&gt;exercise tracker&lt;&#x2F;strong&gt;, which is essentially written markdown:
+a heading for the month and list items for each exercise day.
+Since I’m currently following the “Starting Strength” powerlifting program,
+this is currently just writing down the weights for each of the lifts I did.
+When I had to take quite a list of pills, I dedicated a page to a &lt;strong&gt;weekly medication tracker&lt;&#x2F;strong&gt;.
+Remembering to take pills on schedule is hard enough and autism doesn’t make it any easier.
+As for &lt;strong&gt;project trackers&lt;&#x2F;strong&gt;, I rarely use them.
+I’m not doing anything outside of work that requires that granular foresight and,
+since I spend most of my time checking daily logs,
+I find the project trackers get a bit lost for me.
+Maybe that’s just executive dysfunction doing its thing:
+the less friction, the fewer pages I have to flip, the better.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;calendar&quot;&gt;Calendar&lt;&#x2F;h3&gt;
+&lt;p&gt;After that introduction to the notebook side,
+we can get to my calendar or schedule side.
+The integration between the two is where GTD’s influence shows itself.
+Since I’m neurally wired against time blocking,
+my notebook task lists are not given a scheduled time
+beyond “do it today if you can”.
+The few things that have true deadlines, and appointments
+–in other words, things that “must be done that day or not at all”–
+these go in my Proton Calendar.
+I’m bad enough at making appointments
+that I aggressively decline other responsibilities
+to make certain I can be there.&lt;&#x2F;p&gt;
+&lt;p&gt;Other things I put on it are, generally, recurring events or dates
+I nonetheless want to make sure I can refer to in case I forget.
+These include birthdays, holidays, liturgical dates and times, annual celebrations like international days, or personal anniversaries.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;benefits&quot;&gt;Benefits&lt;&#x2F;h2&gt;
+&lt;p&gt;This type of notebook is extremely helpful for executive dysfunction like mine.
+Since I have a natural difficulty with task planning,
+I break down tasks into really, really small actionable chunks.
+For example: If I need a medical appointment, I will have a task “find out about a doctor” if it’s not one I have a regular for, or “check who is my doctor” if it’s something I do.
+“Make appointment” is a task I only write down after the first is done.&lt;&#x2F;p&gt;
+&lt;p&gt;A second benefit is that the notebook becomes very satisfying to look back on, and good for mental health.
+If you think to yourself you have not done much,
+you can look back on your journal and find out exactly how much you’ve done and when.
+The physical notebook part is extra beneficial,
+as you can’t NOT look at your monthly calendar view
+if you’re looking at your monthly task view;
+or the previous day when planning the next day.&lt;&#x2F;p&gt;
+&lt;p&gt;Since I write things down as soon as they come to my mind, I spend &lt;em&gt;very&lt;&#x2F;em&gt; little time in the “urgent + important” quadrant of the famous matrix.
+Little in my life outside of work is so urgent as to completely throw off my ability to do other things,
+mostly because everything else is also not so urgent.
+This means, if something more important comes up and it takes all of my time (which it usually doesn’t),
+it’s fine, because the other things can be done the next day. And if a task consistently gets put off like this,
+it’s probably not that important after all.
+This means I’m living more of a life that aligns with my values and interests.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;references&quot;&gt;References&lt;&#x2F;h2&gt;
+&lt;p&gt;No affiliate links, by the way.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ahrens, S. (2022). How to take smart notes: One simple technique to boost writing, learning and thinking (2nd edition, revised and expanded edition). Sönke Ahrens.&lt;&#x2F;li&gt;
+&lt;li&gt;Allen, D. (2015). Getting things done: The art of stress-free productivity (Revised edition). Penguin Books.&lt;&#x2F;li&gt;
+&lt;li&gt;Carroll, R. (2018). The bullet journal method: Track the past, order the present, design the future. Portfolio&#x2F;Penguin.&lt;&#x2F;li&gt;
+&lt;li&gt;Down the Breather Hole. (2026, January 10). Hack Your Pocket Notebook with These 5 Tips [YouTube]. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=NWnX3ZkL_eA&lt;&#x2F;li&gt;
+&lt;li&gt;Rippetoe, M., &amp;amp; Bradford, S. (2017). Starting strength: Basic barbell training (3rd edition, 3. revision). The Aasgaard Company.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>A reflection on liturgical prayer</title>
+        <published>2025-11-12T00:00:00+00:00</published>
+        <updated>2025-11-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.raultaveras.online/articles/20251112-reflection-on-bcp/"/>
+        <id>https://www.raultaveras.online/articles/20251112-reflection-on-bcp/</id>
+        
+        <content type="html" xml:base="https://www.raultaveras.online/articles/20251112-reflection-on-bcp/">&lt;p&gt;Last night I was praying compline with my parents,
+and as I led us in prayer,
+it struck me what the Anglican tradition means
+by liturgical prayer “forming” us.&lt;&#x2F;p&gt;
+&lt;p&gt;To give an example,
+one of the concluding prayers of compline reads:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;grant that we may never forget
+that our common life depends upon each other’s toil.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;As we pray this night in and night out,
+we are constantly invited to remember this fact
+and to act upon it in humility and mercy.&lt;&#x2F;p&gt;
+&lt;p&gt;Or another example:
+the “Prayers and Thanksgiving” section of the Book of Common Prayer
+has some prayers for thanksgiving before a meal,
+one of which says:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blessed are you, O Lord God, King of the Universe,
+for you give us food to sustain our lives
+and make our hearts glad &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.episcopalchurch.org&#x2F;wp-content&#x2F;uploads&#x2F;2023&#x2F;06&#x2F;book_of_common_prayer.pdf&quot;&gt;(p. 835)&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;When we pause before a meal to say this,
+in a world where evil often deepens,
+it is an affirmation of the ultimate goodness of life
+and of the God Who provides it.
+For us who have struggled with mental darkness,
+it is, as the song goes,
+“good that we remind ourselves of this.”
+We are created &lt;em&gt;for&lt;&#x2F;em&gt; delight,
+and it’s similarly no coincidence we find food delicious:
+we are in part created for each other as part of the life
+God created for us, and God created us for.&lt;&#x2F;p&gt;
+&lt;p&gt;This is the power of liturgical prayer such as the daily office,
+and I’ve found it a wonderful gift to partake in it.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>WhatsApp Channels: The evolution &amp; devolution of communication</title>
+        <published>2023-10-30T00:00:00+00:00</published>
+        <updated>2023-10-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.raultaveras.online/articles/20231030-ws-channels-rss/"/>
+        <id>https://www.raultaveras.online/articles/20231030-ws-channels-rss/</id>
+        
+        <content type="html" xml:base="https://www.raultaveras.online/articles/20231030-ws-channels-rss/">&lt;p&gt;WhatsApp rolled out “channels” worldwide on &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.whatsapp.com&#x2F;whatsapp-channels-are-going-global&quot;&gt;September 13, 2023&lt;&#x2F;a&gt;,
+following the popularity of a similar feature in Telegram &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;telegram.org&#x2F;blog&#x2F;channels&quot;&gt;introduced 7 years prior&lt;&#x2F;a&gt;.
+Through channels, users can subscribe to one-sided chat feeds and
+receive updates from individuals or organizations directly to their devices.
+While some see this as a way to get us closer to the information we want,
+I argue channels make reliable information harder to find and verify,
+compromising transparency.
+Additionally, I believe they are a merely a symptom of the declining quality of the internet
+and represent a redundant reinvention of technology available
+and perfectly functional for the past 25 years.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;how-channels-are-bad-for-information-transparency&quot;&gt;How channels are bad for information transparency&lt;&#x2F;h1&gt;
+&lt;p&gt;Channels, as explained before, are essentially chat feeds
+that allow the owner to send messages one way
+without receiving a barrage of disscussion in return.
+As chat feeds, they present a number of barriers to information transparency.&lt;&#x2F;p&gt;
+&lt;p&gt;First, they are limited to users who have subscribed to them
+within specific messaging services.
+Because of this,
+old information can only be retrieved through the user interfaces
+and search engines these companies provide,
+which are not designed for retrieval past anything but a couple of months.&lt;&#x2F;p&gt;
+&lt;p&gt;These limitations mean the original information is vulnerable to being irretrievably lost.
+If the companies that provide these services go under or shut them down,
+the original information effectively disappears from the face of the Earth.
+On the other hand, governments can and sometimes do ban access to these systems,
+and companies themselves are perfectly capable of banning individual users.
+In these scenarios, the information still exists in servers somewhere,
+but it’s as good as nonexistent for the affected people.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;if-channels-are-so-bad-why-are-they-so-popular&quot;&gt;If channels are so bad, why are they so popular?&lt;&#x2F;h1&gt;
+&lt;p&gt;In the information age, we want to receive direct information
+from those whose content we find valuable.
+We find ourselves migrating to channels for our information
+not out of preference but out of necessity,
+a response to the alarming decline in the quality of information readily available online,
+a phenomenon colloquially termed “ensh*ttification.”&lt;&#x2F;p&gt;
+&lt;p&gt;It used to be, back in the 2000s, when Google rose to fame,
+that if a user typed a search into the box and hit enter,
+they’d find just what they were looking for.
+Tens of thousands of varied,
+often independent results would come up,
+written by real people from all over the web.
+Now, many people find navigating the web so frustrating &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20230605171506&#x2F;https:&#x2F;&#x2F;www.pcmag.com&#x2F;news&#x2F;when-will-chatgpt-replace-search-engines-maybe-sooner-than-you-think&quot;&gt;they stopped doing it at all&lt;&#x2F;a&gt;,
+instead using tools like ChatGPT to find answers to their questions.&lt;&#x2F;p&gt;
+&lt;p&gt;What changed?&lt;&#x2F;p&gt;
+&lt;p&gt;First, websites realized that Google and other search engines could be gamed.
+They could write articles in ways that would give them a much higher chance
+of appearing in the first few results.
+This practice is called search engine optimization (SEO).
+The importance of appearing first is
+that most users click one of the first few results on their searches,
+and almost none go past the first page.
+Corporations therefore had much to gain from driving clicks to their websites,
+and they had resources to invest into SEO,
+leading to content design that favors clicks instead of information quality.
+There is even &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20231002123158&#x2F;https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;google-antitrust-lawsuit-search-results&#x2F;&quot;&gt;evidence Google changes search terms&lt;&#x2F;a&gt;
+without user consent, in order to place paying results up in the list.&lt;&#x2F;p&gt;
+&lt;p&gt;The result? The same couple of websites show up at the top of every results page,
+filled with formulaic articles that may or may not contain any useful information.&lt;&#x2F;p&gt;
+&lt;p&gt;Furthermore, since the advent of AI in the 2020s,
+sites are employing AI to write a large number of their articles with little editorial oversight.
+These superficial, content-lite articles often don’t even contain the answers people seek,
+making finding actual information more like looking for a needle in a haystack.&lt;&#x2F;p&gt;
+&lt;p&gt;This isn’t all. To maximize revenue, corporations also sell ads.
+As with search results, the purpose of ads is to be clicked,
+and websites employ every conceivable tactic to elicit clicks.
+In-text and popup ads transformed the simple old internet websites into virtual minefields,
+disrupting the user experience even more.&lt;&#x2F;p&gt;
+&lt;p&gt;Therefore, channels emerge in a context where information is harder to come by
+as individual freedom of navigation is curtailed by corporate practices.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;how-these-issues-have-been-solved-for-24-and-a-half-years&quot;&gt;How these issues have been solved for 24 and a half years&lt;&#x2F;h1&gt;
+&lt;p&gt;Channels are a flawed attempt to solve the modern internet’s greatest problem.
+However, they do nothing more than reinvent the wheel,
+rediscovering a service that has existed since 1999.&lt;&#x2F;p&gt;
+&lt;p&gt;Enter RSS (standing for RDF Site Summary or Really Simple Syndication),
+a simple system for users to follow their favorite sites
+and be automatically notified when they post something new.&lt;&#x2F;p&gt;
+&lt;p&gt;Here’s how it works. Users can employ their reader of choice to subscribe to a website’s feed.
+The reader will then download the site’s contents and link to the source posts.
+When there’s a new post, the reader automatically updates.
+Many websites directed at a broad audience, such as newspapers and blogs, have RSS feeds.
+Even YouTube channels are themselves RSS feeds.&lt;&#x2F;p&gt;
+&lt;p&gt;In essence, RSS feeds fulfill the roles that individuals expect from WhatsApp and Telegram channels.
+They allow users to follow individuals and organizations and receive updates directly from the source.
+They boast several advantages over channels, however:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;RSS feeds point straight to the source,
+which means there is no risk of information loss even if the reader is discontinued.
+It also means corporations cannot manipulate the information sent by feeds, even if they wanted to.&lt;&#x2F;li&gt;
+&lt;li&gt;Since the user isn’t beholden to any single program,
+they are free to tailor their experience to match their unique needs and preferences,
+including those with special visual or auditory needs.&lt;&#x2F;li&gt;
+&lt;li&gt;RSS feeds further allow the user to organize the influx of data in ways that fit them,
+allowing them to curate them by folders, groups, and tags,
+as well as saving their favorite articles.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Some good RSS readers include &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;feedly.com&quot;&gt;Feedly&lt;&#x2F;a&gt; for the web and mobile
+and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.rssowl.org&#x2F;&quot;&gt;RSSOwl&lt;&#x2F;a&gt; for Windows, Mac and Linux (which I happen to use).&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h1&gt;
+&lt;p&gt;WhatsApp and Telegram channels exist
+because the internet has become a much more hostile place to find information,
+as websites are flooded with premade, AI-written articles
+filled to the brim with ads, popups, and subscription requests.
+They attempt to solve this
+by providing a direct means for one-way communication,
+but they do so in a way that leaves information vulnerable to irretrievable loss and manipulation.
+The creators of RSS had already solved this problem in 1999,
+even before the advent of search engines.
+In light of the challenges posed by current internet practices,
+it may be time to consider adopting this technology once more.&lt;&#x2F;p&gt;
+&lt;p&gt;Feel free to follow my RSS feed with your favorite reader
+at &lt;a rel=&quot;external&quot; href=&quot;http:&#x2F;&#x2F;www.raultaveras.online&#x2F;atom.xml&quot;&gt;http:&#x2F;&#x2F;www.raultaveras.online&#x2F;atom.xml&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;a-good-video-that-addresses-the-topic-of-search-engines&quot;&gt;A good video that addresses the topic of search engines:&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Enrico Tartarotti. (2022, November 25). What Happened to Google Search? [YouTube]. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=48AOOynnmqU&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
