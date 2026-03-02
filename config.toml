@@ -32,6 +32,11 @@ smart_punctuation = true
 # Put all your custom variables here
 header_menu_name = "multilingual_menu_name"
 
+# If you disable default favicons, you can use
+# the inject support to set your own favicons.
+# Default value: false
+disable_default_favicon = true
+
 [extra.profiles.raul]
 name = "Raúl Ernesto Taveras Franco"
 bio = "I am Raúl: Christian, linguistics lover, diplomacy professional, inhabitant of the world. Welcome to my website!"

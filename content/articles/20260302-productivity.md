@@ -4,7 +4,7 @@ date = 2026-03-02
 draft = false
 
 [taxonomies]
-tags = ['articles']
+tags = ['articles', 'task management', 'productivity']
 +++
 
 
