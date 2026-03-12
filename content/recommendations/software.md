@@ -2,7 +2,7 @@
 title: "Software I use"
 draft: false
 date: 2025-10-31
-updated: 2026-02-19
+updated: 2026-03-12
 ---
 
 # Software I use
@@ -21,6 +21,7 @@ I'm testing between X11 and Wayland.
 
 ### General[^1]
 
+- [Wezterm](https://wezterm.org/index.html): Terminal emulator written in Rust. Known for being configured using lua and for having top-tier documentation. Crucially for me, works on Windows too.
 - Konsole: Terminal emulator by KDE[^2].
 - [Nushell](https://www.nushell.sh/): cross-platform shell (works on Windows!) where structured data is first-class.
 - [Obsidian](https://obsidian.md/): markdown text editor and ecosystem.
@@ -31,15 +32,7 @@ I'm testing between X11 and Wayland.
 - [bat](https://github.com/sharkdp/bat): I mostly use it instead of `less` since it uses `less` in the background but colorizes the output.
 - [Typst](https://typst.app/): a modern typesetting system. While still in pre-1.0.0 development, it is simpler and ultimately more powerful than LaTeX.
 - [Zellij](https://github.com/zellij-org/zellij): I didn't get it until I used it, then I did. Just try it. It will click.
-
-[^1]: You may notice I haven't listed office suite software. 
-I don't use office suites in my personal purposes.
-Where I would use a word processor,
-I use markdown or typst when I need more power.
-Instead of spreadsheets, I use hledger or nushell + json or yaml,
-and I basically never need to present slideshows anymore. 
-
-[^2]: I'm interested in [Wezterm](https://wezterm.org/index.html), but I'm done tinkering as of the date of this draft.
+- [ONLYOFFICE](https://www.onlyoffice.com/): Almost open-source office suite which is shockingly similar and compatible with Microsoft Office. I don't use office suites in my personal purposes. Where I would use a word processor, I use markdown or typst when I need more power. Instead of spreadsheets, I use hledger or nushell + json or yaml, and I basically never need to present slideshows anymore. So, I mostly use ONLYOFFICE if I need to do something work-related on my laptop.
 
 ### Internet
 
@@ -53,7 +46,7 @@ and I basically never need to present slideshows anymore.
 - [Yazi](https://yazi-rs.github.io/): excellent terminal file manager.
 - [jj (or jujutsu)](https://github.com/jj-vcs/jj): simple but powerful version control system that builds on, and is compatible with, [Git](https://git-scm.com/).
 - [lazygit](https://github.com/jesseduffield/lazygit): terminal user interface (TUI) for Git, for the few occasions when I'm in a Git repository that isn't also a jj repository.
-- [restic](https://restic.net/): incremental back up utility with built-in encryption.
+- [restic](https://restic.net/): incremental back up utility with built-in encryption. It can even back up over sftp (aka SSH)!
 
 ### Admin
 
@@ -76,6 +69,7 @@ and I basically never need to present slideshows anymore.
 
 - [Okular](https://okular.kde.org/): PDF reader by KDE. Also available for Windows! Bonus: can render Markdown and epub.
 - VLC: Formerly known as the video player _par excellence_, it's still fantastic, and came preinstalled with openSUSE.
+- [ytm](https://github.com/peternaame-boop/ytm-player): A TUI YouTube Music frontend. It's an incredible project.
 
 ### Language servers (LSP) and formatters
 
@@ -83,7 +77,7 @@ and I basically never need to present slideshows anymore.
 - [Lua Language Server](https://github.com/LuaLS/lua-language-server): LSP for Lua. 
 - [Marksman](https://github.com/artempyanykh/marksman): LSP for Markdown with goto-file and heading symbols
 - [Tinymist](https://github.com/Myriad-Dreamin/tinymist): LSP for Typst. 
-- [Dprint](https://dprint.dev/): A formatter for many files. I use it for Markdown.
+- [Dprint](https://dprint.dev/): A formatter for many filetypes. I use it for Markdown.
 - [Typstyle](https://github.com/typstyle-rs/typstyle): formatter for Typst.
 
 ### Other
@@ -104,7 +98,8 @@ I have greatly reduced it to what I kept installed in my small Windows partition
 - [Stardock Start11](https://www.stardock.com/products/start11/): Excellent taskbar and start menu customization. _(Paid)_
 - Neovim (see Linux section)
 - [Microsoft Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/): An amazing set of tools. If you're anything above a completely basic user, you should look into this. It will likely significantly improve your quality of life while using your PC.
-- [Windows Terminal](https://github.com/microsoft/terminal): Generally very good and customizable terminal emulator.
+- Wezterm: See above.
+<!-- - [Windows Terminal](https://github.com/microsoft/terminal): Generally very good and customizable terminal emulator. -->
 
 ### Internet
 
